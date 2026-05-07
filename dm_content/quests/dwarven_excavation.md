@@ -1,0 +1,225 @@
+# Dwarven Excavation
+
+## Prep needed:
+
+Physical bits:
+- 3 Ochre jelly prints
+- 5 Orc prints
+- MAYBE: 2 Dwarves
+- Print painting
+- Make a character version of the map
+
+Planning bits:
+- Figure out new version of the room of greed
+- Tie this quest into gnomenguard and 1 other
+
+Goals prep:
+- Print out cards for the Treasure Hunt options
+- Print out cards for the Bolognese win
+- Plan out possible NPCs to be the guy that the Avenger is searching for
+- Plan out possible NPCs to be the one who cooks/serves the Bolognese win
+
+Ideas:
+- The room of greed explodes. After the explosion, hint that they need to investigate again. In the rubble, they find a *very* crude map of the icespire hold. Futher checks on the map will tell them that it was made in Orc handwritting. 
+- Later on, they may be able to get an item which will tell them that this is not just written in the Orc's hand, but has an invisible marking of the Iron Throne.
+
+Progress:
+- Printed 2 jellies, 5 orcs, 2 dwarves. For now on, they will only see the creatures of the room they are in - so we don't need 3 jelly prints, only 2.
+- Need to collect and check the prints
+- Need to print tower top, put it together
+- Need to paint them
+
+## Actual Quest
+
+### Surrounding Lore
+
+[Halia Thornton](../../npc_content/all_npcs.md#halia-thornton) and [the Zhentarim](../plotlines/zhentarim.md) have an interest in controlling or at least being the exclusive shipping partners for all mining and industrial sites in the area. She suspects this one is a dead end though. She asks the adventurers to grab her an extremely rare bloodstone, and that she will make it worth their while. In truth, this is a test, and the bloodstone is just a normal gem.
+
+The original inhabitants of the temple were working with [The Iron Throne](../plotlines/ironthrone.md), a mercenary group from the eastern end of the continent. The Iron Throne contracted orc warbands to scout the region over a hundred years ago. Though the organization is no longer working in the area, and is greatly reduced in size, the relics remain scattered.
+
+The orc descendents of those original contractors carry the sigil around with them to this day. They do not know the origin of the symbol, they just know that it is *their* symbol, the symbol of their fathers and grandfathers. If asked to provide a name, the leader will stumble and say "The.. Stone's Lightning!" Unknowingly, they carry the mantle of the Iron Throne. Ironically, wearing the sigil so brazenly is totally counter to the mission of being a covert, shadowy, merchant organization.
+
+### Backstory
+
+Shield dwarves [Dazlin Grayshard](../../npc_content/all_npcs.md#dazlyn-grayshard) and [Norbus Ironrune](../../npc_content/all_npcs.md#norbus-ironrune) are prospectors who are excavating an ancient dwarven settlement burried by an avalance. They have been clearing rubble for the past several months without much to show for it.
+
+Behind the settlement is an old temple of Abbathor, the evil dwarven god of greed. During solar eclipses, Abbathor is appeased with sacrifices of blood and gemstones. On one occasion, the god found the sacrifices of this temple’s priests lacking, so he caused an earthquake and avalanche that collapsed parts of the temple and buried the settlement. The priests in the temple who were not killed outright were transformed into ochre jellies — debased reflections of Abbathor’s hunger and greed.
+
+To complete the quest, the adventurers only need to warn the dwarves of the dragon. They offer the adventurers more questing: if they rid the temple of the monsters, they will be given a pair of [sending stones](../../npc_content/magic_items.md#dwarven-sending-stones) in exchange. The sending spell can be used via these stones once a day.
+
+The excavation is 15 miles southwest of Phandalin, due easyt of Leilon. The characters arrive at the eastern end of the canyon, the westernmost part of the map.
+
+> The canyon’s rocky walls rise to a height of eighty feet. At the end of the canyon, a twenty-foot-high wall of black stone has a broken gate carved into it, with one stone door hanging precariously by a hinge and the other door missing. Beyond this open gate, in the shadow of a great mountain to the east, lies a ruined settlement. All is quiet.
+
+### Locations and Events
+
+If they announce their arrival, Dazlin and Norbus come forth to greet them in area E1 - Canyon. Otherwise, the chatacters encounter them in area E3 (temple facade)
+
+![Keyed Excavation Map](../map-05.02-dwarven-excavation.jpg)
+
+#### E2 - Ruined Settlement
+
+The settlement has been ransacked. The adventurers may find crushed dwarf bones and signs of recent campfires, but nothing of value.
+
+All knowledge of this settlement, including its name, vanished along with its original inhabitants, who were killed by an avalanche. The rubble that once buried the settlement has been hauled away, leaving the outlines of stone buildings visible as collapsed walls. A stone well on the far side of the ruins is filled with rubble.
+
+#### E3 - Courtyard and Temple Facade
+
+Dazyln and Norbus are here if they haven't been encountered yet.
+
+> A partially collapsed, ten-foot-high wall separates this courtyard from the settlement west of it. Three heaps of rubble are piled high in this area. Hewn from the canyon’s back wall, a thirty-foot-high temple facade features steps rising to a stone platform. Cut into this facade is a ten-foot-high open doorway flanked by crumbling, life-sized granite statues of cloaked dwarves. Evil grins can be seen on their weatherworn faces.
+
+The dwarves have **commoner** stat blocks, speak Common and Dwarvish, and have darkvision with a range of 60 ft. Dazlyn is forthright and honost. Norbus is gruff and cautious. They bicker.
+
+Each has ten days of rations, a waterskin, mining tools and one of the two [sending stones](../../npc_content/magic_items.md#dwarven-sending-stones). They offer the magic items to anyone willing to kill the ochre jellies in the temple, search for other obvious threats, and make it safe. 
+
+> Those gelatinous bastards - they move slow but they sure burn when they hit.
+
+![Temple Features](../dwarven-excavation-temple-features.png)
+
+#### E4 - Dusty Foyer
+
+Spikes hammered into the floor hold open two sets of double doors. A once-secret door to the north stands open, with a room beyond it holding nothing but rubble.
+
+![Keyed Excavation Map](../map-05.02-dwarven-excavation.jpg)
+ 
+There is a secret door to the south, leading to area E6, *discoverable with a hard investigation check*.
+
+#### E5 - Temple
+
+The area contains five secret doors, *discoverable with a medium investigation check*. A bloodstained limestone altar stands at the far end of the room. Earlier, an ochre jelly scared the dwarves off, and it now clings to the ceiling above the altar. A second ochre jelly clings to the south wall.
+
+The fifth door, *understood with a second medium check*, is in the pillar, and conceals a cavity packed with dwarg skulls that tumble out. At the bottom of the cavity is a stone coffer containing 15 ink pots worth 10 gp each. *In the orginal, this was gemstones*.
+
+#### E6 - Partially collapsed room
+
+The southernmost door leads to a room partially collapsed from an earthquake. It holds nothing of value
+
+#### E7 - Secret Tunnel
+
+Trapped behind the secret doors, another ochre jelly lurks in the rubble at the south end of this hall. The characters may lead it out into the large room. 
+
+There is also a secret door to the hall of greed at the eastern wall, *discoverable with a very hard investigation check*.
+
+![Keyed Excavation Map](../map-05.02-dwarven-excavation.jpg)
+
+#### E8 - Priests' Bedchamber
+
+The northen secret door leads to a hallway with a room at the end.
+
+> Three stone bed frames stand against the east wall. Though they served the god of greed, the chamber looks barren and modest. Most likely, it was searched already for valuables - perhaps long before Dazlyn and Norbus ever arrived.
+
+#### E9 - Vestry
+
+From the bedchamber, there is a secret door on the southern wall, *discoverable with an easy investigation check*. An empty stone font juts out of the southwest wall. A stone wardrobe holds the rotten remains of two lavish suits of red leather armor (vestments worn by priests of Abbathor, now worthless).
+
+#### E10 - Partially collapsed room
+
+Across a narrow hallway, there is a room with an open door, partially full of rubble. Half burried in the rubble here is the skeleton of a dwarf priest wearing rotted red leather armor. The dwarf was killed when the room collapsed.
+
+Around the skeleton's neck hangs a holy symbol of Abbathor: a tiny jeweled dagger on a silver chain. The symbol is inscribed with Dwarvish runes that translate to "greed is good". It is worth 50 gp.
+
+![Keyed Excavation Map](../map-05.02-dwarven-excavation.jpg)
+
+#### E11 - Hall of Greed
+
+The hall of greed is both the narrow hallway and the hidden chamber. The narrow hallway is accessible from area E7 via a secret door, which is obvious from this side of it. On the eastern end of the narrow hallway is a pile of rubble that reaches to the ceiling. It looks like the room continues past the rubble. 
+
+To clear away the rubble, it will take one adventurer 40 hours, or two adventurers 20 hours, or three adventurers 14 hours, or four adventurers 10 hours, or five adventurers 8 hours. 
+
+> The rubble pile is quite large. Even though you can only see the front face of it, you suspect that there is quite a lot of rubble that you cannot see. It would certainly take one person multiple days working alone, but it looks like the kind of task which would be done faster with multiple people.
+
+If all five start excavating in the late middle of the day, let them know that they will need to take a rest and continue with the second half afterwards.
+
+An alcove in the south wall holds the rubble of a shattered statue. An alcove to the north holds a statue of a dwarf with horns, which stares greedily at a glowing green gem in its hands. If the gem is taken, it turns to dust and the statue explodes. Any creature within 10 feet of the exploding statue must make a DC 15 Dex saving throw, taking 16 piercing damage on a failed save, or 8 damage on a successful one.
+
+*Additional content:* when searching through the rubble, you find the bloodstone that Halia wanted. You may also find a tattered map, the [Iron Map of Icespire Hold](../../npc_content/magic_items.md#iron-map-of-icespire-hold). The team can discover that the handwritting is clearly from an Orc. They can also discover a faint watermark with the sigil of the Iron Throne. At the time of excavation though, ***they can only see the faint outline of a watermark, and they may have to ask someone in town for help deciphering it.***
+
+> You see a faint outline in gray: a horizontal zig zag, like a flattened W, going across an embellished downward arrow.
+
+The map says: "Olde Ice Spiyer Holde", and is a crude drawing of icespire hold - albeit from over a hundred years ago. It has an additional structure that no longer exists, and several areas of the hold had not been constructed yet.
+
+#### E3 - On the way out..
+
+On the way out, the players find Dazlyn and Norbus still in area E3. If the characters long rested while in there, the dwarves express some concern, but joke about it as well. They thank the characters greatly. Knowing that everything has been cleared of threats, and that there is a larger threat of the dragon, they assure the adventurers that they will wrap up at the excavation site with haste.
+
+#### E1 - On the way out..
+
+After the characters conclude their business with the dwarves (who remain in area E3), they encounter five orcs arriving in area E1. They have been driven from their territory by Cryovain, and are looking for a new lair. The warband chief will speak briefly if anyone knows orcish, but they will fight to the death no matter what. The warband chief wears a tattered gray cape with a crudely drawn sigil on it. The characters are pushed to take the cape with them, because this map be a clue about the map.
+
+### Fights
+
+![Ochre Jelly Stat Block](../../npc_content/monster_stat_blocks/ochre_jelly.png)
+
+**Ochre Jellies in the Temple**
+
+Initatives:
+[ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+Jelly 1 is above the altar. It has AC 8, HP 50, speed 10ft, reach 5ft and the pseudopod attack. It may only split once.
+
+[ 50 / 50 ]
+
+Splits:
+
+[  /  ]
+
+[  /  ]
+
+Jelly 2 is on the southern wall. It has AC 8, HP 40, speed 10ft, reach 5ft and the pseudopod attack. It may only split once.
+
+[ 40 / 40 ]
+
+Splits:
+
+[  /  ]
+
+[  /  ]
+
+The jellies can split if they have at least 10 hit points. The new jellies each have half the original's hit points.
+
+**Ochre Jelly in the Secret Tunnel**
+
+Initatives:
+[ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+Jelly 3 is in the rubble. It has AC 8, HP 45, speed 10ft, reach 5ft and the pseudopod attack. It may only split once.
+
+[ 45 / 45 ]
+
+Splits:
+
+[  /  ]
+
+[  /  ]
+
+![Orc Raider Stat Block](../../npc_content/monster_stat_blocks/orc.png)
+
+**Orcs at the Entrance**
+
+Initatives:
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+Leader orc (Orc 1) is in the middle. It has AC 13, HP 22, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). The leader has 5 javelins.
+
+[ 22 / 22 ]
+
+Orc 2 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 3 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 4 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 5 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+## Follow up
+
+Several week after this is completed, the dwarves return the Phandalin. They stay for several nights in the unoccupied room at Stonehill inn before setting out again. They try to get the characters to trust and utilize the Phandalin Miner's Exchange more. If the charaters did not learn about the Iron Throne already, the dwarves will pass on this knowledge. 
