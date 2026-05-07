@@ -104,6 +104,12 @@ One of the foremost inventors of Gnomenguard, busying himself with trying to cur
 
 One of the foremost inventors of Gnomenguard, busying herself with trying to cure the king's madness.
 
+### Alfonse Kalazorn
+
+Owner of the Butterskull Ranch, and he used to be the sherrif of a town to the east named Triboar. He used to be known as Big Al Kalazorn.
+
+*Not established: As sherrif, he was anti ALL secret societies - from Zhentarim to Harpers to any others around. He tried to get all of the network influences out of Triboar, and ultimately that was what drove him out of the job. For that reason, the Harper's steer clear of him. He does recognize that they are the good guys, but he is opposed to them. Perhaps he is a True Neutral character.*
+
 ### Tibor Wester
 
 Harbin Wester's older brother, who is stationed at the Logger's camp. Met during the [Logger's Camp](../dm_content/quests/loggers_camp.md) quest.
