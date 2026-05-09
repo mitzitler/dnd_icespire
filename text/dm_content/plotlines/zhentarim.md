@@ -1,10 +1,13 @@
-## The Zhent Conspiracy
+# The Zhent Conspiracy
 
-### Who are they
+## Aims
+
 They are a chaotic-neutral / lawful-evil aligned merchant company, with strong connections all along the sword coast. They have a reputation for being ruthless.
 
-### [Halia Thornton](../../npc_content/all_npcs.md#halia-thornton)
+## Who are they
 
+
+### [Halia Thornton](../../npc_content/all_npcs.md#halia-thornton)
 
 At the start of the campaign, the Zhent in Phandalin operate out of the Phandalin Miner's Exchange (sometimes written PME). Through this, she has dominion over most of the smaller mines, excavations, and river logging in the area. Notably, she has no hold in either:
 - Axeholm
@@ -14,8 +17,9 @@ For this reason she takes special interest in the outcomes of this quest.
 
 ### [Sharlay Grift](../../npc_content/all_npcs.md#sharlay-grift-homebrew)
 
-
 Halia's right hand woman. She dies outside of town in between certain quests, and it is clear it's because of Cryovain.
+
+## Who knows about them
 
 ### [Pickled Pete](../../npc_content/all_npcs.md#pickled-pete-homebrew)
 

@@ -84,3 +84,7 @@ From these, they should know that Halia has intentions to gather information on 
 ### Elixir of Cold Resistance
 
 Up to 4 of these will be sold by [Harbin Wester](all_npcs.md#harbin-wester) once they have gained enough respect. This most likely will happen by facilitating the reunion between him and his brother [Tibor Wester](all_npcs.md#tibor-wester). Each potion is sold one by one, and they all have some kind of cooldown time to make, so they all have different prices, equal to 150 + (1d8 * 20) gp (between 170 and 310 gp). These elixirs will be invaluable for the Cryovain fight.
+
+## Cursed Objects
+
+These are all malicious "Thronic Artifacts" (see [Iron Throne](../dm_content/plotlines/ironthrone.md) and [Harpers](../dm_content/plotlines/harpers.md)).

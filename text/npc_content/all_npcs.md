@@ -73,6 +73,10 @@ Her estranged brother, Kantortké is one candidate for the [Father's Killer](../
 
 Facktoré's estranged brother. He is met at Gnomenguard AFTER the initial quest-related visit. He is one candidate for the [Father's Killer](../dm_content/secret_goals/2avenging_the_murder.md).
 
+### Sister Garaele
+
+She is a zelous elf acolyte of Tymora, goddess of luck, and tends the shrine in the central square of town. She is a [Harper](../dm_content/plotlines/harpers.md) and is out of town for most of the adventure.
+
 
 ### Quest-specific NPCs
 
