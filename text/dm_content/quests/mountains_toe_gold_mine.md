@@ -1,4 +1,6 @@
-## Loggers Camp
+## Mountain's Toe Gold Mine
+
+**Quest Level: 2**
 
 ### Prep needed:
 

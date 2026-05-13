@@ -1,5 +1,7 @@
 ## Loggers Camp
 
+**Quest Level: 2**
+
 ### Prep needed:
 
 Physical bits:

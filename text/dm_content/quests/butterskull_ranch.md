@@ -1,5 +1,7 @@
 # Butterskull Ranch
 
+**Quest Level: 2**
+
 ## Prep needed:
 - Cow
 - 15 orcs, 10 have been printed, and there wont be more than 10 in an area

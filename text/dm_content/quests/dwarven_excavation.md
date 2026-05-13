@@ -1,5 +1,7 @@
 # Dwarven Excavation
 
+**Quest Level: 1**
+
 ## Prep needed:
 
 Physical bits:

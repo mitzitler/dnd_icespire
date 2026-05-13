@@ -88,3 +88,54 @@ Up to 4 of these will be sold by [Harbin Wester](all_npcs.md#harbin-wester) once
 ## Cursed Objects
 
 These are all malicious "Thronic Artifacts" (see [Iron Throne](../dm_content/plotlines/ironthrone.md) and [Harpers](../dm_content/plotlines/harpers.md)).
+
+### Blade of the Pariah
+
+https://alchemygamelab.com/random-cursed-items-table
+(Cursed Magic Weapon)
+
+This +1 longsword is crafted of fine Damascus steel and adorned with sapphires and gold-inlay.
+
+DM Info:
+
+This longsword provides +1 to attack and damage rolls. It is also cursed by the soul of its nameless former owner. 
+
+Once this sword has been carried by a humanoid for more than one day, it will attune itself to the new owner. Once attuned, the owner gains a permanent -5 to Charisma until the curse is broken. 
+
+### Flute of Extreme Exuberance
+
+https://alchemygamelab.com/random-cursed-items-table
+(Cursed Musical Instrument)
+
+While playing this magical flute (and for one minute following a song), you gain +2 Charisma. 
+
+DM Info:
+
+This cursed flute will also compel its owner (occasionally at awkward times) to stop whatever they are doing and play. Whenever the owner makes an ability check, skill check, attack action, dodge action, or casts a spell they must first roll a D6. On a roll of 1 they will forego that action and instead use their turn to play a spirited ditty.
+
+
+
+Dagger of Secrets
+
+This dagger looks ornately decorated, but poorly constructed and most casual observers would assume that it deals less damage than a normal dagger (d4-1). In reality the dagger is a powerful magic weapon that deals an additional 5 damage on a hit. However for every individual aside from the wielder that knows this the bonus is reduced by 2. Anyone who has the dagger in their possession for 24 hours becomes aware of this ability. Attempts to identify the dagger instead reveal that it is cursed to cause people to become obsessed with it.
+
+You drop this as loot on some cultist. No doubt the rogue will take it. Before the next session you reach out to them and explain the dagger. The rogue will start using it in combat to everyone else's surprise and stating damage as if it were dealing a d4-1, but you add the additional 6 damage behind the scenes. You can even make a show of have the rogue roll and fail some fake will save so the party thinks they're doing it because of a curse. This will drive the party nuts, but the rogue will do anything to keep it secret and keep using the dagger.
+
+Dagger of Lies
+
+Exact same as the Dagger of Secrets but the will save the rogue makes is real. On a success they realize it actually is a cursed broken dagger, on a failure they continue to believe it's a Dagger of Secrets. As long as they believe you run it exactly like a Dagger of Secrets, you just don't add the extra damage behind the scenes.
+
+
+
+A pointless box. When you open it, a mage hand appears and closes it again.
+
+
+Cowardly shield. When danger looms, it exclaims things like, “shit, let’s get out of here!” And “Yikes, fuck, he’s gonna break me!” +1 AC but -2 to stealth and initiative.
+
+The Fabulous Chapeau of Disguising the Drab
+Whoever made this Hat of Disguise either had a weird sense of humor, or a horrific sense of fashion. It functions as any other Hat of Disguise, save that the illusory guise is always wearing something hideously gaudy and "fashionable" in a way that fits in with nothing anybody else is wearing.
+
+A key that radiates magic, but the magic just prevents it from fitting in any lock, and it screams when you try.
+
+
+Weaponproof Armour - This armour is completely impervious to any sort of weapon. Weapons will simply pass through the armour, leaving it undamaged.
