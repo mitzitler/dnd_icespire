@@ -14,7 +14,7 @@ The item is not enchanted, but it is a locket with Pickled Pete's face in it. Wh
 
 > Gotta cover my tracks, now that I have the chance. You two kids are alright in my book.
 
-No matter what he pays them, one of the gp is paid in 100 sp. After paying them, he tells them that he knows that they want to kill the dragon, and to do that, they should really stock up on Elixirs of Ice Resistance. [Harbin Wester](../../npc_content/all_npcs.md#harbin-wester) makes them (or at least procures them) and will sell them at a fair price. 
+He pays them with a bag of stuff. It has actual math problems in it, and it takes the players at least 30 minutes of in-game time to count all the coin. After paying them, he tells them that he knows that they want to kill the dragon, and to do that, they should really stock up on Elixirs of Ice Resistance. [Harbin Wester](../../npc_content/all_npcs.md#harbin-wester) makes them (or at least procures them) and will sell them at a fair price. 
 
 But in order to even have that conversation, they clearly need him to trust them enough to open up the door. He says:
 

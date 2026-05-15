@@ -19,11 +19,11 @@ Pending...
 - [ ] 3 Anchorites
 - [ ] 5 Wererats
 - [ ] 4 Giant Rats for:
-    - [Mountains toe gold mine](../dm_content/quests/mountains_toe_gold_mine.md)
+    - [Mountains toe gold mine](../dm_content/locations/mountains_toe_gold_mine.md)
 - [ ] 1 Giant Boar for:
-    - [Loggers Camp](../dm_content/quests/loggers_camp.md)
+    - [Loggers Camp](../dm_content/locations/loggers_camp.md)
 - [ ] 3 Ankhegs for:
-    - [Loggers Camp](../dm_content/quests/loggers_camp.md)
+    - [Loggers Camp](../dm_content/locations/loggers_camp.md)
 
 from https://forum.rpg.net/index.php?threads/dragon-of-icespire-peak-minis-list.851117/
 

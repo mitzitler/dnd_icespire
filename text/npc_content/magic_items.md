@@ -8,7 +8,7 @@ This is a catalogue of all the items the players can encounter on this quest. Th
 
 ### Dwarven Sending Stones
 
-Given by [Dazlin Grayshard](all_npcs.md#dazlyn-grayshard) and [Norbus Ironrune](all_npcs.md#norbus-ironrune) in exchange for clearing the temple of greed at the [dwarven excavation](../dm_content/quests/dwarven_excavation.md) site.
+Given by [Dazlin Grayshard](all_npcs.md#dazlyn-grayshard) and [Norbus Ironrune](all_npcs.md#norbus-ironrune) in exchange for clearing the temple of greed at the [dwarven excavation](../dm_content/locations/dwarven_excavation.md) site.
 
 Wonderous item, uncommon:
 
@@ -64,7 +64,7 @@ While holding this 10-foot pole, you can use an action to speak a command word a
 
 ### Don-Jon's Enchanted Goggles
 
-[Don-Jon Raskin](all_npcs.md#don_jon_raskin) is an NPC the characters must escort for the [Mountain's Toe Gold Mine](../dm_content/quests/mountains_toe_gold_mine.md) quest. It is a gift from [Halia Thornton](all_npcs.md#halia-thornton) at the Phandalin Miner's Exchange, and it comes with a cute note "The PME helps me see!"
+[Don-Jon Raskin](all_npcs.md#don_jon_raskin) is an NPC the characters must escort for the [Mountain's Toe Gold Mine](../dm_content/locations/mountains_toe_gold_mine.md) quest. It is a gift from [Halia Thornton](all_npcs.md#halia-thornton) at the Phandalin Miner's Exchange, and it comes with a cute note "The PME helps me see!"
 
 However, unbeknownst to Don-Jon, have been enchanted by an artificer similar to a spy bug. They have a much greater range, but much more limited capacity. They take a sort of "snapshot" once per hour, and have a range of 20 miles. This can all be gleamed with a combination of Investigation and Detect Magic - or if they run into an artificer, they may get a clue for free.
 

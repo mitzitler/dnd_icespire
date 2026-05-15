@@ -4,7 +4,7 @@
 	<nav>
 		<ul>
 			<li>
-				<a href="/quests">Quests</a>
+				<a href="/locations">Quests</a>
 			</li>
 			<li>
 				<a href="/plots">Plots</a>

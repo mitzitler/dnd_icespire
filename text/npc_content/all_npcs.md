@@ -65,7 +65,7 @@ Lean, brown-eyed, sharp human woman of about 35 who operates out of the Phandali
 
 ### Facktoré
 
-A female artificer rock gnome. She is unusually diminuitive due to the type of mushrooms which has been the backbone of her diet for many years. She lives at [Gnomenguard](../dm_content/quests/gnomenguard.md) and is met there during the quest. She becomes a 'psuedo-ally' and will have plotlines related to the eventual dragon encounter.
+A female artificer rock gnome. She is unusually diminuitive due to the type of mushrooms which has been the backbone of her diet for many years. She lives at [Gnomenguard](../dm_content/locations/gnomenguard.md) and is met there during the quest. She becomes a 'psuedo-ally' and will have plotlines related to the eventual dragon encounter.
 
 Her estranged brother, Kantortké is one candidate for the [Father's Killer](../dm_content/secret_goals/2avenging_the_murder.md).
 
@@ -86,11 +86,11 @@ Adabra is an old midwife and an acolyte of Chauntea who lives just outside of to
 
 ### Dazlyn Grayshard
 
-Shield dwarf prospector, and business partner with Norbus Ironrune. They seem identical, but Dazlyn has dark skin and graying hair. Forthright and honest. They need to be warned about the dragon to complete the [Dwarven Excavation](../dm_content/quests/dwarven_excavation.md) quest.
+Shield dwarf prospector, and business partner with Norbus Ironrune. They seem identical, but Dazlyn has dark skin and graying hair. Forthright and honest. They need to be warned about the dragon to complete the [Dwarven Excavation](../dm_content/locations/dwarven_excavation.md) quest.
 
 ### Norbus Ironrune
 
-Shield dwarf prospector, and business partner with Dazlyn Grayshard. They seem identical, but Norbus has tan skin and brown hair. Gruff and cautious. They need to be warned about the dragon to complete the [Dwarven Excavation](../dm_content/quests/dwarven_excavation.md) quest.
+Shield dwarf prospector, and business partner with Dazlyn Grayshard. They seem identical, but Norbus has tan skin and brown hair. Gruff and cautious. They need to be warned about the dragon to complete the [Dwarven Excavation](../dm_content/locations/dwarven_excavation.md) quest.
 
 ### Gnerkli
 
@@ -116,4 +116,4 @@ Owner of the Butterskull Ranch, and he used to be the sherrif of a town to the e
 
 ### Tibor Wester
 
-Harbin Wester's older brother, who is stationed at the Logger's camp. Met during the [Logger's Camp](../dm_content/quests/loggers_camp.md) quest.
+Harbin Wester's older brother, who is stationed at the Logger's camp. Met during the [Logger's Camp](../dm_content/locations/loggers_camp.md) quest.
