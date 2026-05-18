@@ -28,7 +28,7 @@ The answer: a letter! The squirrel loves it, and runs the letter down the tree t
 
 When they return to the shrine, Carla is waiting for them with gifts. She talks about the vandals always screwing with the shrine, but it's run by her good friend. Oops! I'm not sure if I was supposed to say that - we're not really supposed to tell people how well we know each other. Forget I said anything!
 
-Dopio gets dancing shoes. Gasshole gets a component pouch. Arfur gets a component pouch. She also gives them a quick IOU note on the back of some receipt from the store. The receipt however has a clue for one of the three of them, randomly. Carla can be easily persuaded to give them all IOUs, though.
+Dopio gets [dancing shoes](../../npc_content/magic_items.md#thistles-used-slippers-of-study). Gasshole gets a component pouch. Arfur gets a riding sadle. She also gives them a quick IOU note on the back of some receipt from the store. The receipt however has a clue for one of the three of them, randomly. Carla can be easily persuaded to give them all IOUs, though.
 
 She finally tells Dopio that she knows Barthen is looking for a Viol and will take it off his hands for a fair price.
 

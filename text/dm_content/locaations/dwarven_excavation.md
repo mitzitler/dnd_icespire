@@ -7,7 +7,7 @@
 Physical bits:
 - 3 Ochre jelly prints
 - 5 Orc prints
-- MAYBE: 2 Dwarves
+- MAYBE: 2 Dwarves0
 - Print painting
 - Make a character version of the map
 
