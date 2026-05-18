@@ -2,7 +2,7 @@
 
 ## At the start
 
-At the start of the campaign, Dopio has button-eyes, his enchanted mask, and normal shoes. He needs to acquire dancing shoes he can atune.
+At the start of the campaign, Dopio has button-eyes, his enchanted mask, and normal shoes. He needs to acquire dancing shoes he can atune. These will be *Thistle's Used Slippers of Study*, which can be used as a bardic focus (requiring attunement) and give a +1 to History checks.
 
 ## Public Goal
 
