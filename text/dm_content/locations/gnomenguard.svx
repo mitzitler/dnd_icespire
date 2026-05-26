@@ -42,13 +42,13 @@ The caves of Gnomengarde are carved into the base of a mountain southeast of Pha
 
 *Additional context:* The mushrooms give them all a distinctive piercing green eye color and a diminuitive size. It's rumored that the mushroom diet may also cause psychosis, though nothing substantial has come of that claim. There have been a few members in recent history who have been exiled from the reclusive clan.
 
-Gnomengarde has two married kings who rule in tandem — [Gnerkli](../../npc_content/all_npcs.md#gnerkli) and [Korboz](../../npc_content/all_npcs.md#korboz). Korboz recently lost his mind and is keeping Gnerkli as his prisoner. Their subjects don’t understand the nature of Korboz’s affliction, and are at a loss as to what to do. They wish no harm to befall either king, but they acknowledge that Korboz has become a danger to himself and others.
+Gnomengarde has two married kings who rule in tandem — [Gnerkli](../../npc_content/all_npcs.svx#gnerkli) and [Korboz](../../npc_content/all_npcs.svx#korboz). Korboz recently lost his mind and is keeping Gnerkli as his prisoner. Their subjects don’t understand the nature of Korboz’s affliction, and are at a loss as to what to do. They wish no harm to befall either king, but they acknowledge that Korboz has become a danger to himself and others.
 
 In addition to the danger posed by the mad king, two gnomes have mysteriously vanished within the last tenday. No one except King Korboz knows that a shapechanging monster (a mimic) has crept into Gnomengarde and is feeding on the gnomes, changing its appearance as it makes its way through the complex. Korboz was attacked and almost killed by the creature, with that event inspiring his madness. He has sequestered himself and his beloved Gnerkli in their quarters because he doesn’t want the monstrous shapechanger to devour them. Korboz hopes the creature will tire of eating gnomes and leave. Providing Korboz with evidence of the mimic’s demise restores his sanity.
 
 ![Gnomenguard Features](../gnomenguard_features.png)
 
-To completem the quest, the characters must obtain at least one magic item from the gnomes. Of all the items they can secure, only the [Hat of Wizardry](../../npc_content/magic_items.md#hat-of-wizardry) interests [Harbin Wester](../../npc_content/all_npcs.md#harbin-wester), who will offer to buy it for 50 gp. There are total four magic items that the adventurers can amass: the Hat of Wizardry (from Korboz), a [Wand of Pyrotechnics](../../npc_content/magic_items.md#wand-of-pyrotechnics) (from Gnerkli), a [Clockwork Amulet](../../npc_content/magic_items.md#clockwork-amulet) and [Pole of Collapsing](../../npc_content/magic_items.md#pole-of-collapsing) (from the group of gnomes, given by Fibblestib and Dabbledob).
+To completem the quest, the characters must obtain at least one magic item from the gnomes. Of all the items they can secure, only the [Hat of Wizardry](../../npc_content/magic_items.svx#hat-of-wizardry) interests [Harbin Wester](../../npc_content/all_npcs.svx#harbin-wester), who will offer to buy it for 50 gp. There are total four magic items that the adventurers can amass: the Hat of Wizardry (from Korboz), a [Wand of Pyrotechnics](../../npc_content/magic_items.svx#wand-of-pyrotechnics) (from Gnerkli), a [Clockwork Amulet](../../npc_content/magic_items.svx#clockwork-amulet) and [Pole of Collapsing](../../npc_content/magic_items.svx#pole-of-collapsing) (from the group of gnomes, given by Fibblestib and Dabbledob).
 
 ### Wild Magic
 
@@ -125,7 +125,7 @@ A creature sitting in the chair can use an action to rotate the device up to 360
 
 **Heavy Crossbow** Ranged Weapon Attack: +5 to hit, range 50/200 ft., one target. Hit: 5 (1d10) piercing damage.
 
-Sitting in the chair when the adventurers enter is the device's inventor: [Facktoré](../../npc_content/all_npcs.md#facktoré). When she sees the adventurers enter, she exclaims:
+Sitting in the chair when the adventurers enter is the device's inventor: [Facktoré](../../npc_content/all_npcs.svx#facktoré). When she sees the adventurers enter, she exclaims:
 
 > Perfect, targets!
 
@@ -161,7 +161,7 @@ Set into the south wall of the smaller western part of the room is a brass lever
 
 #### G11 - Inventor's Workshop
 
-As the characters approach this area, they overhear an argument in Gnomish between two rock gnome recluses — a male named [Fibblestib](../../npc_content/all_npcs.md#fibblestib) and a female named [Dabbledob](../../npc_content/all_npcs.md#dabbledob). As Gnomengarde’s foremost inventors, they are trying to dream up an invention that will cure King Korboz’s madness. Fibblestib’s proposal is a “sanity ray.” Dabbledob thinks that’s dumb, and wants to build something called a “straitjacket” instead. If the characters interrupt them, the gnomes realize that the new arrivals might have another solution, so they fill in what’s been happening and ask for any advice on how they might help cure Korboz and rescue King Gnerkli.
+As the characters approach this area, they overhear an argument in Gnomish between two rock gnome recluses — a male named [Fibblestib](../../npc_content/all_npcs.svx#fibblestib) and a female named [Dabbledob](../../npc_content/all_npcs.svx#dabbledob). As Gnomengarde’s foremost inventors, they are trying to dream up an invention that will cure King Korboz’s madness. Fibblestib’s proposal is a “sanity ray.” Dabbledob thinks that’s dumb, and wants to build something called a “straitjacket” instead. If the characters interrupt them, the gnomes realize that the new arrivals might have another solution, so they fill in what’s been happening and ask for any advice on how they might help cure Korboz and rescue King Gnerkli.
 
 Fibblestib and Dabbledob consider the mystery of the vanishing gnomes of secondary importance to their mission of aiding their kings. They focus on Korboz and Gnerkli to the exclusion of all else, promising magical rewards in exchange for aid. 
 
@@ -191,15 +191,15 @@ King Korboz has locked himself and King Gnerkli in their bedroom, forgetting tha
 
 Korboz and Gnerkli are rock gnome recluses, each wearing a jagged metal crown and a patchwork cloak. Gnerkli is glued to a chair and restrained. Korboz carries a flask of solvent that dissolves the glue on contact. Their room contains all the trappings of a nicely appointed gnome bedroom.
 
-A small unlocked chest under the gnomes’ bed contains a [hat of wizardry](../../npc_content/magic_items.md#hat-of-wizardy) and a fully charged [wand of pyrotechnics](../../npc_content/magic_items.md#wand-of-pyrotechnics). When Gnerkli's glue is dissolved, the kings hand out their prizes. They urge the adventurers to return to Fibblestib and Dabbledob for them to express their gratitude as well.
+A small unlocked chest under the gnomes’ bed contains a [hat of wizardry](../../npc_content/magic_items.svx#hat-of-wizardy) and a fully charged [wand of pyrotechnics](../../npc_content/magic_items.svx#wand-of-pyrotechnics). When Gnerkli's glue is dissolved, the kings hand out their prizes. They urge the adventurers to return to Fibblestib and Dabbledob for them to express their gratitude as well.
 
 #### G11 - Hallway
 
-Fibblestib and Dabbledob intercept them in the hallway and urge them to follow immediately. They take them into G13, which seems at first blush to be a clutter of random junk. They take a minute to wander into the middle of the room, and simultaneously bend down and pick up two magical items in the junk. They give the adventurers the [clockwork amulet](../../npc_content/magic_items.md#clockwork-amulet) and the [pole of collapsing](../../npc_content/magic_items.md#pole-of-collapsing).
+Fibblestib and Dabbledob intercept them in the hallway and urge them to follow immediately. They take them into G13, which seems at first blush to be a clutter of random junk. They take a minute to wander into the middle of the room, and simultaneously bend down and pick up two magical items in the junk. They give the adventurers the [clockwork amulet](../../npc_content/magic_items.svx#clockwork-amulet) and the [pole of collapsing](../../npc_content/magic_items.svx#pole-of-collapsing).
 
 #### G1 - On the Way Out
 
-If the players go back the way they came, or if they find a shortcut - either way, they will run into [Facktoré](../../npc_content/all_npcs.md#facktoré) at the entrance. It is almost like she is out of a trance. She apologizes for attacking them and then thanks them for providing her with intelligents targets. She asks what this group is doing in the region. If they tell her about the dragon, then she goes pale.
+If the players go back the way they came, or if they find a shortcut - either way, they will run into [Facktoré](../../npc_content/all_npcs.svx#facktoré) at the entrance. It is almost like she is out of a trance. She apologizes for attacking them and then thanks them for providing her with intelligents targets. She asks what this group is doing in the region. If they tell her about the dragon, then she goes pale.
 
 > A dragon? Here? A white dragon? That can't be... This is.. this is really not good. Do you know it's name?
 
@@ -207,7 +207,7 @@ If they tell her the name of the dragon, this will yield additional information.
 
 > Please, come back. Come back soon. I think I may be able to help you, I just need to... Well.. I need to get, hm, I need to, hm, well, get.. some stuff in order.
 
-If they choose, they can leave a [sending stone](../../npc_content/magic_items.md#dwarven-sending-stones) with her, and she will send them a message for exactly when they need to return.
+If they choose, they can leave a [sending stone](../../npc_content/magic_items.svx#dwarven-sending-stones) with her, and she will send them a message for exactly when they need to return.
 
 ### Fights
 
@@ -227,4 +227,4 @@ Facktoré says: ????
 
 And urges them to return
 
-On each return, roll a d4. If you roll a 4, her estranged brother [Kantorké](../../npc_content/all_npcs.md#kantorké-homebrew) is in G1 when they leave. He is one of the candidates for the [Father's Killer](../secret_goals/2avenging_the_murder.md) quest.
+On each return, roll a d4. If you roll a 4, her estranged brother [Kantorké](../../npc_content/all_npcs.svx#kantorké-homebrew) is in G1 when they leave. He is one of the candidates for the [Father's Killer](../secret_goals/2avenging_the_murder.svx) quest.

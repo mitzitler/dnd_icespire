@@ -65,17 +65,17 @@ Lean, brown-eyed, sharp human woman of about 35 who operates out of the Phandali
 
 ### Facktoré
 
-A female artificer rock gnome. She is unusually diminuitive due to the type of mushrooms which has been the backbone of her diet for many years. She lives at [Gnomenguard](../dm_content/locations/gnomenguard.md) and is met there during the quest. She becomes a 'psuedo-ally' and will have plotlines related to the eventual dragon encounter.
+A female artificer rock gnome. She is unusually diminuitive due to the type of mushrooms which has been the backbone of her diet for many years. She lives at [Gnomenguard](../dm_content/locations/gnomenguard.svx) and is met there during the quest. She becomes a 'psuedo-ally' and will have plotlines related to the eventual dragon encounter.
 
-Her estranged brother, Kantortké is one candidate for the [Father's Killer](../dm_content/secret_goals/2avenging_the_murder.md).
+Her estranged brother, Kantortké is one candidate for the [Father's Killer](../dm_content/secret_goals/2avenging_the_murder.svx).
 
 ### Kantorké ***homebrew***
 
-Facktoré's estranged brother. He is met at Gnomenguard AFTER the initial quest-related visit. He is one candidate for the [Father's Killer](../dm_content/secret_goals/2avenging_the_murder.md).
+Facktoré's estranged brother. He is met at Gnomenguard AFTER the initial quest-related visit. He is one candidate for the [Father's Killer](../dm_content/secret_goals/2avenging_the_murder.svx).
 
 ### Sister Garaele
 
-She is a zelous elf acolyte of Tymora, goddess of luck, and tends the shrine in the central square of town. She is a [Harper](../dm_content/plotlines/harpers.md) and is out of town for most of the adventure.
+She is a zelous elf acolyte of Tymora, goddess of luck, and tends the shrine in the central square of town. She is a [Harper](../dm_content/plotlines/harpers.svx) and is out of town for most of the adventure.
 
 
 ### Quest-specific NPCs
@@ -86,11 +86,11 @@ Adabra is an old midwife and an acolyte of Chauntea who lives just outside of to
 
 ### Dazlyn Grayshard
 
-Shield dwarf prospector, and business partner with Norbus Ironrune. They seem identical, but Dazlyn has dark skin and graying hair. Forthright and honest. They need to be warned about the dragon to complete the [Dwarven Excavation](../dm_content/locations/dwarven_excavation.md) quest.
+Shield dwarf prospector, and business partner with Norbus Ironrune. They seem identical, but Dazlyn has dark skin and graying hair. Forthright and honest. They need to be warned about the dragon to complete the [Dwarven Excavation](../dm_content/locations/dwarven_excavation.svx) quest.
 
 ### Norbus Ironrune
 
-Shield dwarf prospector, and business partner with Dazlyn Grayshard. They seem identical, but Norbus has tan skin and brown hair. Gruff and cautious. They need to be warned about the dragon to complete the [Dwarven Excavation](../dm_content/locations/dwarven_excavation.md) quest.
+Shield dwarf prospector, and business partner with Dazlyn Grayshard. They seem identical, but Norbus has tan skin and brown hair. Gruff and cautious. They need to be warned about the dragon to complete the [Dwarven Excavation](../dm_content/locations/dwarven_excavation.svx) quest.
 
 ### Gnerkli
 
@@ -116,4 +116,4 @@ Owner of the Butterskull Ranch, and he used to be the sherrif of a town to the e
 
 ### Tibor Wester
 
-Harbin Wester's older brother, who is stationed at the Logger's camp. Met during the [Logger's Camp](../dm_content/locations/loggers_camp.md) quest.
+Harbin Wester's older brother, who is stationed at the Logger's camp. Met during the [Logger's Camp](../dm_content/locations/loggers_camp.svx) quest.

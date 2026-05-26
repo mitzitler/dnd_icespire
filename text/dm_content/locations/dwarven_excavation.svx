@@ -35,19 +35,19 @@ Progress:
 
 ### Surrounding Lore
 
-[Halia Thornton](../../npc_content/all_npcs.md#halia-thornton) and [the Zhentarim](../plotlines/zhentarim.md) have an interest in controlling or at least being the exclusive shipping partners for all mining and industrial sites in the area. She suspects this one is a dead end though. She asks the adventurers to grab her an extremely rare bloodstone, and that she will make it worth their while. In truth, this is a test, and the bloodstone is just a normal gem.
+[Halia Thornton](../../npc_content/all_npcs.svx#halia-thornton) and [the Zhentarim](../plotlines/zhentarim.svx) have an interest in controlling or at least being the exclusive shipping partners for all mining and industrial sites in the area. She suspects this one is a dead end though. She asks the adventurers to grab her an extremely rare bloodstone, and that she will make it worth their while. In truth, this is a test, and the bloodstone is just a normal gem.
 
-The original inhabitants of the temple were working with [The Iron Throne](../plotlines/ironthrone.md), a mercenary group from the eastern end of the continent. The Iron Throne contracted orc warbands to scout the region over a hundred years ago. Though the organization is no longer working in the area, and is greatly reduced in size, the relics remain scattered.
+The original inhabitants of the temple were working with [The Iron Throne](../plotlines/ironthrone.svx), a mercenary group from the eastern end of the continent. The Iron Throne contracted orc warbands to scout the region over a hundred years ago. Though the organization is no longer working in the area, and is greatly reduced in size, the relics remain scattered.
 
 The orc descendents of those original contractors carry the sigil around with them to this day. They do not know the origin of the symbol, they just know that it is *their* symbol, the symbol of their fathers and grandfathers. If asked to provide a name, the leader will stumble and say "The.. Stone's Lightning!" Unknowingly, they carry the mantle of the Iron Throne. Ironically, wearing the sigil so brazenly is totally counter to the mission of being a covert, shadowy, merchant organization.
 
 ### Backstory
 
-Shield dwarves [Dazlin Grayshard](../../npc_content/all_npcs.md#dazlyn-grayshard) and [Norbus Ironrune](../../npc_content/all_npcs.md#norbus-ironrune) are prospectors who are excavating an ancient dwarven settlement burried by an avalance. They have been clearing rubble for the past several months without much to show for it.
+Shield dwarves [Dazlin Grayshard](../../npc_content/all_npcs.svx#dazlyn-grayshard) and [Norbus Ironrune](../../npc_content/all_npcs.svx#norbus-ironrune) are prospectors who are excavating an ancient dwarven settlement burried by an avalance. They have been clearing rubble for the past several months without much to show for it.
 
 Behind the settlement is an old temple of Abbathor, the evil dwarven god of greed. During solar eclipses, Abbathor is appeased with sacrifices of blood and gemstones. On one occasion, the god found the sacrifices of this temple’s priests lacking, so he caused an earthquake and avalanche that collapsed parts of the temple and buried the settlement. The priests in the temple who were not killed outright were transformed into ochre jellies — debased reflections of Abbathor’s hunger and greed.
 
-To complete the quest, the adventurers only need to warn the dwarves of the dragon. They offer the adventurers more questing: if they rid the temple of the monsters, they will be given a pair of [sending stones](../../npc_content/magic_items.md#dwarven-sending-stones) in exchange. The sending spell can be used via these stones once a day.
+To complete the quest, the adventurers only need to warn the dwarves of the dragon. They offer the adventurers more questing: if they rid the temple of the monsters, they will be given a pair of [sending stones](../../npc_content/magic_items.svx#dwarven-sending-stones) in exchange. The sending spell can be used via these stones once a day.
 
 The excavation is 15 miles southwest of Phandalin, due easyt of Leilon. The characters arrive at the eastern end of the canyon, the westernmost part of the map.
 
@@ -73,7 +73,7 @@ Dazyln and Norbus are here if they haven't been encountered yet.
 
 The dwarves have **commoner** stat blocks, speak Common and Dwarvish, and have darkvision with a range of 60 ft. Dazlyn is forthright and honost. Norbus is gruff and cautious. They bicker.
 
-Each has ten days of rations, a waterskin, mining tools and one of the two [sending stones](../../npc_content/magic_items.md#dwarven-sending-stones). They offer the magic items to anyone willing to kill the ochre jellies in the temple, search for other obvious threats, and make it safe. 
+Each has ten days of rations, a waterskin, mining tools and one of the two [sending stones](../../npc_content/magic_items.svx#dwarven-sending-stones). They offer the magic items to anyone willing to kill the ochre jellies in the temple, search for other obvious threats, and make it safe. 
 
 > Those gelatinous bastards - they move slow but they sure burn when they hit.
 
@@ -135,7 +135,7 @@ If all five start excavating in the late middle of the day, let them know that t
 
 An alcove in the south wall holds the rubble of a shattered statue. An alcove to the north holds a statue of a dwarf with horns, which stares greedily at a glowing green gem in its hands. If the gem is taken, it turns to dust and the statue explodes. Any creature within 10 feet of the exploding statue must make a DC 15 Dex saving throw, taking 16 piercing damage on a failed save, or 8 damage on a successful one.
 
-*Additional content:* when searching through the rubble, you find the bloodstone that Halia wanted. You may also find a tattered map, the [Iron Map of Icespire Hold](../../npc_content/magic_items.md#iron-map-of-icespire-hold). The team can discover that the handwritting is clearly from an Orc. They can also discover a faint watermark with the sigil of the Iron Throne. At the time of excavation though, ***they can only see the faint outline of a watermark, and they may have to ask someone in town for help deciphering it.***
+*Additional content:* when searching through the rubble, you find the bloodstone that Halia wanted. You may also find a tattered map, the [Iron Map of Icespire Hold](../../npc_content/magic_items.svx#iron-map-of-icespire-hold). The team can discover that the handwritting is clearly from an Orc. They can also discover a faint watermark with the sigil of the Iron Throne. At the time of excavation though, ***they can only see the faint outline of a watermark, and they may have to ask someone in town for help deciphering it.***
 
 > You see a faint outline in gray: a horizontal zig zag, like a flattened W, going across an embellished downward arrow.
 

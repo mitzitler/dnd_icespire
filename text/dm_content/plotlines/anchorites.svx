@@ -6,6 +6,6 @@ The anchorites of Talos were a reclusive group who rarely operated in large numb
 
 ## Who knows about them
 
-### [Tibor Wester](../../npc_content/all_npcs.md#tibor-wester)
+### [Tibor Wester](../../npc_content/all_npcs.svx#tibor-wester)
 
 From living at the lodge. He's always suspected that they are lurking, and behind unexplained animal attacks.

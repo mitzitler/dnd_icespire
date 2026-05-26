@@ -8,7 +8,7 @@ This is a catalogue of all the items the players can encounter on this quest. Th
 
 ### Dwarven Sending Stones
 
-Given by [Dazlin Grayshard](all_npcs.md#dazlyn-grayshard) and [Norbus Ironrune](all_npcs.md#norbus-ironrune) in exchange for clearing the temple of greed at the [dwarven excavation](../dm_content/locations/dwarven_excavation.md) site.
+Given by [Dazlin Grayshard](all_npcs.svx#dazlyn-grayshard) and [Norbus Ironrune](all_npcs.svx#norbus-ironrune) in exchange for clearing the temple of greed at the [dwarven excavation](../dm_content/locations/dwarven_excavation.svx) site.
 
 Wonderous item, uncommon:
 
@@ -64,7 +64,7 @@ While holding this 10-foot pole, you can use an action to speak a command word a
 
 ### Don-Jon's Enchanted Goggles
 
-[Don-Jon Raskin](all_npcs.md#don_jon_raskin) is an NPC the characters must escort for the [Mountain's Toe Gold Mine](../dm_content/locations/mountains_toe_gold_mine.md) quest. It is a gift from [Halia Thornton](all_npcs.md#halia-thornton) at the Phandalin Miner's Exchange, and it comes with a cute note "The PME helps me see!"
+[Don-Jon Raskin](all_npcs.svx#don_jon_raskin) is an NPC the characters must escort for the [Mountain's Toe Gold Mine](../dm_content/locations/mountains_toe_gold_mine.svx) quest. It is a gift from [Halia Thornton](all_npcs.svx#halia-thornton) at the Phandalin Miner's Exchange, and it comes with a cute note "The PME helps me see!"
 
 However, unbeknownst to Don-Jon, have been enchanted by an artificer similar to a spy bug. They have a much greater range, but much more limited capacity. They take a sort of "snapshot" once per hour, and have a range of 20 miles. This can all be gleamed with a combination of Investigation and Detect Magic - or if they run into an artificer, they may get a clue for free.
 
@@ -83,11 +83,11 @@ From these, they should know that Halia has intentions to gather information on 
 
 ### Elixir of Cold Resistance
 
-Up to 4 of these will be sold by [Harbin Wester](all_npcs.md#harbin-wester) once they have gained enough respect. This most likely will happen by facilitating the reunion between him and his brother [Tibor Wester](all_npcs.md#tibor-wester). Each potion is sold one by one, and they all have some kind of cooldown time to make, so they all have different prices, equal to 150 + (1d8 * 20) gp (between 170 and 310 gp). These elixirs will be invaluable for the Cryovain fight.
+Up to 4 of these will be sold by [Harbin Wester](all_npcs.svx#harbin-wester) once they have gained enough respect. This most likely will happen by facilitating the reunion between him and his brother [Tibor Wester](all_npcs.svx#tibor-wester). Each potion is sold one by one, and they all have some kind of cooldown time to make, so they all have different prices, equal to 150 + (1d8 * 20) gp (between 170 and 310 gp). These elixirs will be invaluable for the Cryovain fight.
 
 ## Cursed Objects
 
-These are all malicious "Thronic Artifacts" (see [Iron Throne](../dm_content/plotlines/ironthrone.md) and [Harpers](../dm_content/plotlines/harpers.md)).
+These are all malicious "Thronic Artifacts" (see [Iron Throne](../dm_content/plotlines/ironthrone.svx) and [Harpers](../dm_content/plotlines/harpers.svx)).
 
 ### Blade of the Pariah
 
