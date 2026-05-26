@@ -2,7 +2,7 @@
     import { siteState } from '../../../state.store.js';
     let { itemName, itemRoute, main } = $props();
 
-    function updateSiteState(main:boolean, route:string) {
+    function updateSiteState(main:boolean, route:[string]) {
         main ? siteState.mainPaneContent = route : siteState.sidePaneContent = route;
         siteState.activeOpen = "";
     }
