@@ -2,17 +2,29 @@
     let {classType : className, ...rest} = $props();
 </script>
 
-<div class={className}>{rest.buttonText}</div>
+<button class={className}>{rest.buttonText}</button>
 
 
 <style>
 
+	button {
+		background-color: orangered;
+		border-radius: 12px;
+		width: 7em;
+		height: 2em;
+		margin-left: 1em;
+		text-align: center;
+		padding: auto;
+		color: rgb(28, 16, 6)
+	}
+
 	.main-nav {
-		color: peachpuff
+		font-style: bold;
 	}
 
 	.side-nav {
-		color: slategray
+		font-style: italic;
+		background-color: orange;
 	}
 
 </style>

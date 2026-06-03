@@ -30,6 +30,18 @@ export const refRoutes: DDRoute = {
     'Prints': ['text/npc_content/prints_list.md', 'Prints'],
 }
 
+// is there more needed here?
+export interface FightConfigItem {
+    name: string,
+    initiative_default: number,
+    monster_type: boolean,
+    gray: boolean,
+}
+
+// export interface FightItems {
+//     [player: string] : FightConfigItem
+// }
+
 export interface Monster {
     ruleset: Ruleset,
     size: Sizes,
@@ -80,4 +92,8 @@ export const enum Alignments {
 
 export interface MonsterAttributes {
     [actionName: string] : string
+}
+
+export interface MonsterConfig {
+    [monster: string] : number
 }

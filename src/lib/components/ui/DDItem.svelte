@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { siteState } from '../../../state.store.js';
+    import { siteState } from '../../../state.store.svelte.js';
     let { itemName, itemRoute, main } = $props();
 
     function updateSiteState(main:boolean, route:[string]) {
