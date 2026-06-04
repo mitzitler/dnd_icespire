@@ -14,7 +14,7 @@ const config = {
 		adapter: adapter()
 	},
 	preprocess: [mdsvex({ extensions: ['.svx', '.md'] })],
-	extensions: ['.svelte', '.svx', '.md']
+	extensions: ['.svelte', '.svx']
 };
 
 export default config;

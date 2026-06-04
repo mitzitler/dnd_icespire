@@ -12,11 +12,15 @@
 
 <div>
 </div>
+
+    <!-- make this div box slightly big on the bottom to have a grace area for toggling closed -->
+    <!-- svelte-ignore a11y_no_static_element_interactions -->
     <div class="dropdown dropdown-hover" 
-        style="background-color: {id === 'references' ? 'orange' : '' }; font-style: {id === 'references' ? 'italic' : 'bold'} " >
-        <!-- svelte-ignore a11y_no_noninteractive_tabindex -->
-        <button onmouseenter={() => setOpenId(id)} 
-            // onmouseleave={() => setOpenId(null)}
+        style="background-color: {id === 'references' ? 'orange' : '' }; font-style: {id === 'references' ? 'italic' : 'bold'} " 
+        onmouseenter={() => setOpenId(id)} 
+        onmouseleave={() => setOpenId(null)}
+        >
+        <button 
             // onclick={toggleOpen} 
             class="button" tabindex="0">
             {@render children()}

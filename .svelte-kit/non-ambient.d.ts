@@ -47,7 +47,7 @@ declare module "$app/types" {
 			"/npcs": Record<string, never>;
 			"/plots": Record<string, never>
 		};
-		Pathname(): "/" | "/demo" | "/demo/playwright" | "/locations" | "/locations/dwarven_excavation" | "/locations/phandalin" | "/npcs" | "/plots";
+		Pathname(): "/" | "/demo" | "/demo/playwright" | "/locations" | "/locations/dwarven_excavation" | "/npcs" | "/plots";
 		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
 		Asset(): string & {};
 	}

@@ -1,1 +1,1 @@
-export { default as component } from "../../../../src/routes/locations/phandalin/+page.md";
+export { default as component } from "../../../../src/routes/npcs/+page.svelte";
