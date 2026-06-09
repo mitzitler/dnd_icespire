@@ -1,5 +1,5 @@
-<script lang="ts">
-    import { siteState } from '../../../state.store.svelte.js';
+<!-- <script lang="ts">
+
     let { itemName, itemRoute, main } = $props();
 
     function updateSiteState(main:boolean, route:[string]) {
@@ -18,4 +18,4 @@
         font-size: small;
         border-radius: 10%;
     }
-</style>
+</style> -->

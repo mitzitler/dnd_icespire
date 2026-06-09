@@ -3,7 +3,8 @@
 
 	// structure
 	import Header from '../lib/components/structure/Header.svelte';
-	import NavBar from '../lib/components/structure/NavBar.svelte';
+	import Body from '../lib/components/structure/Body.svelte';
+	// import NavBar from '../lib/components/structure/NavBar.svelte';
 	import Nav2 from '../lib/components/structure/Nav2.svelte';
 	import Footer from '../lib/components/structure/Footer.svelte';
 
@@ -46,6 +47,9 @@
 	<Monster />
 {/if}
 
+<Body />
+<Main />
+
 {@render children()}
 
 <Footer />
@@ -60,13 +64,23 @@
 		--color-4: #3c5d5d ;
 		--color-5: #476565 ;
 		--color-6: #577474 ;
+		--color-idx-1: #8f154f;
+		--color-idx-2: #162c54;
+		--color-idx-3: #1c4c62;
+		--color-idx-4: #3b6166;
+		--color-idx-5: #46857b;
+		--color-idx-6: #924931;
+		--color-idx-7: #b82d46;
+		--color-idx-8: #df803e;
+		--color-idx-9: #e2a560;
+		--color-idx-10: #edce5e;
+		--color-idx-11: #fff6d4;
 	}
 
 	:global(body) {
-		/* background: #2f4f4f; */
-		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-		/* background: radial-shape(elipse); */
-		background-image: radial-gradient(
+		/* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+		font-family: 'Krungthep';
+		/* background-image: radial-gradient(
 			ellipse farthest-corner at -10% -5%,
 			var(--color-1) 0%,
 			var(--color-1) 15%,
@@ -84,7 +98,8 @@
 		background-attachment: fixed;
 		background-size: cover;
 		height: 300%;
-		width: 150%
+		width: 150% */
+		background-color: var(--color-idx-10);
 	}
 
 	/* .left-div {

@@ -1,8 +1,8 @@
-## Mountain's Toe Gold Mine
+# Mountain's Toe Gold Mine
 
 **Quest Level: 2**
 
-### Prep needed:
+## Prep needed:
 
 Physical bits:
 - Wererats both forms

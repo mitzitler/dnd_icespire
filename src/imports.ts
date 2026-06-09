@@ -23,6 +23,22 @@ export const extrasRoutes: DDRoute = {
     'Side Quests':  ['text/dm_content/side_quests/0full_side_quests_descr.svx', 'SideQuests']
 }
 
+export const mainRoutes: DDRoute = {
+    // 'Phandalin': ['src/routes/locations/phandalin/+page.svx', 'Phandalin'], 
+    'Phandalin': ['text/dm_content/locations/phandalin.svx', 'Phandalin'], 
+    // 'Dwarven Excavation': ['src/routes/locations/dwarven_excavation/+page.svx', 'DwarvenExcavation'], 
+    // 'Gnomenguard': ['src/routes/locations/gnomenguard/+page.svx', 'Gnomenguard'], 
+    // 'Butterskull Ranch': ['src/routes/locations/butterskull_ranch/+page.svx', 'ButterskullRanch'], 
+    // "Logger's Camp": ['src/routes/locations/loggers_camp/+page.svx', 'LoggersCamp'], 
+    // "Mountain's Toe Gold Mine": ['src/routes/locations/mountains_toe_gold_mine/+page.svx', 'MountainsToe'],
+    // 'Zhentarim': ['text/dm_content/plotlines/zhentarim.svx', 'Zhentarim'],
+    // 'Harpers': ['text/dm_content/plotlines/harpers.svx', 'Harpers'],
+    // 'The Iron Throne': ['text/dm_content/plotlines/ironthrone.svx', 'IronThrone'], 
+    // 'Anchorites of Talos': ['text/dm_content/plotlines/anchorites.svx', 'Anchorites'],
+    // 'Secret Goals': ['text/dm_content/secret_goals/0full_goals_descr.svx', 'SecretGoals'],
+    // 'Side Quests':  ['text/dm_content/side_quests/0full_side_quests_descr.svx', 'SideQuests']
+}
+
 export const refRoutes: DDRoute = {
     'NPCs': ['text/npc_content/all_npcs.svx', 'NPCs'],
     'Items': ['text/npc_content/magic_items.svx', 'Items'],
