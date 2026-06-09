@@ -1,7 +1,6 @@
-<script lang="ts">
+<!-- <script lang="ts">
     import DDItem from "./DDItem.svelte";
     let { obj, main }  = $props();
-    // if main, pull up the item in main, else, pull up the item in ref
 </script>
 
 <div>
@@ -14,5 +13,5 @@
     div {
         flex-direction: column;
     }
-</style>
+</style> -->
 

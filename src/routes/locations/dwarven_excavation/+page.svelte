@@ -1,7 +1,8 @@
 <script>
   import { onMount } from 'svelte';
-  import { siteState } from '../../../state.store.svelte.js';
-  let markdownComponent = siteState.mainPaneContent[1];
+  // import { siteState } from '../../../state.store.svelte.ts';
+  // let markdownComponent = siteState.mainPaneContent[1];
+  let markdownComponent = null;
 /*
   onMount(async () => {
     // Dynamically import the markdown file
