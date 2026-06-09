@@ -72,7 +72,9 @@ From these, they should know that Halia has intentions to gather information on 
 
 ## Outside of Quest Scopes
 
-### Dopio's Dancing Shoes
+### Thistle's Used Slippers of Study
+
+[Carla Gon](all_npcs.md#carla-gon-homebrew) gives these to [Dopio](../dm_content/players/dopio.md) after her [shopping trip](../dm_content/side_quests/shopping_trip.md). These shoes require attunment by a bard. They can be used as a casting focus once attuned. They provide +1 to History checks.
 
 
 ### Al B's Modified Halberd
