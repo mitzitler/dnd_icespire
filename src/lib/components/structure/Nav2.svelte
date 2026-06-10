@@ -1,19 +1,16 @@
 <script lang="ts">
     import Dropdown2 from "../ui/Dropdown2.svelte";
+    import { setMain, setSide } from "../../../state.store.svelte.ts";
 
-    import { setMain } from "../../../state.store.svelte.ts";
-    import { mainRoutes } from "../../../imports.ts";
-
-    // async function loadMain(name: string) {
-    //     const path = mainRoutes[name][0]
-    //     const mod = await import(path);
-    //     console.log("clicked: ", name)
-    //     setMain(mod.default)
-    // }
     async function loadMain(path: string) {
         const mod = await import(path);
         console.log("clicked: ", path)
         setMain(mod.default)
+    }
+    async function loadSide(path: string) {
+        const mod = await import(path);
+        console.log("clicked: ", path)
+        setSide(mod.default)
     }
 
 </script>
@@ -72,10 +69,10 @@
         {#snippet dropDownList(main = false)}
             <div class="outer-format pixel-corners">
                 <div class="list-format">
-                    <li><button onclick={()=>loadMain('../../text/npc_content/all_npcs.svx')}>NPCs</button></li>
-                    <li><button onclick={()=>loadMain('../../text/npc_content/magic_items.svx')}>Items</button></li>
-                    <li><button onclick={()=>loadMain('../../text/dm_content/players/all_players.svx')}>Players</button></li>
-                    <li><button onclick={()=>loadMain('../../text/npc_content/prints_list.svx')}>Prints</button></li>
+                    <li><button onclick={()=>loadSide('../../text/npc_content/all_npcs.svx')}>NPCs</button></li>
+                    <li><button onclick={()=>loadSide('../../text/npc_content/magic_items.svx')}>Items</button></li>
+                    <li><button onclick={()=>loadSide('../../text/dm_content/players/all_players.svx')}>Players</button></li>
+                    <li><button onclick={()=>loadSide('../../text/npc_content/prints_list.svx')}>Prints</button></li>
                 </div>
             </div>
         {/snippet}
@@ -86,16 +83,12 @@
 <style>
 	nav {
 		display: flex;
-		/* gap: 0.5em; */
 		flex-direction: row;
-		/* border-radius: 12px; */
-		/* margin: 1em; */
-		/* height: 5em; */
-        margin-top: 1em;
-        margin-bottom: 1em;
+		height: 4.7em;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
         margin-left: 0.75em;
         margin-right: 0.75em;
-		/* width: 90%; */
 		background-color: var(--color-idx-8);
         border: 2px solid var(--color-idx-1);
 		padding-top: 0.2em;
@@ -103,38 +96,27 @@
         position: relative;
         z-index: 1000;
         font-family: 'Krungthep';
-        
-
 	}	
 
     .outer-format {
         transform: translate(-22px, 2.5em) scale(1, 1.01);
-        /* width: 206px;
-        height: 100%;
-		border-radius: 12px; */
-        margin-top: 10px;
+        margin-top: 14px;
+        padding-top: 6px;
+        padding-bottom: 8px;
         background-color: var(--color-idx-8) ;
         position: absolute;
         z-index: 1001;
-        /* box-shadow: 0px 0px 3px 5px rgba(240, 248, 255, 0.5); */
     }
 
     .list-format {
         transform: translate(2px, 0.02em) scale(1, 0.99);
-        /* transform: scale(1, 0.8); */
         width: 200px;
-        /* font-size: medium; */
-        /* border: 1px solid blue; */
-		/* border-radius: 12px; */
-		/* background-color: rgba(240, 248, 255, 0.2); */
     }
 
     li {
-        /* margin-bottom: 0.2em;
-        margin-left: 2px; */
-        margin: 4px;
+        margin-left: 4px;
+        margin-right: 10px;
         /* transition-duration: 0.5s; */
-        /* inline-size: 100%; */
         background: var(--color-idx-9);
         font-size: small;
         color: var(--color-idx-6);
@@ -147,9 +129,5 @@
         color: var(--color-idx-11);
         cursor: pointer;
     }
-
-    /* .places {
-        background-image: url('../../../assets/buttons/0places_resting_200.png');
-    } */
 
 </style>

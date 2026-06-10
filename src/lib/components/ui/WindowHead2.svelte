@@ -1,5 +1,26 @@
-<script>
-    let { WindowClose, WindowMin, WindowMax, main } = $props();
+<script lang="ts">
+    // import type { Snippet } from "svelte";
+    import { setSizes, setMain, setSide } from '../../../state.store.svelte.ts'
+
+    // let { children, id }: { children: Snippet, id: number} = $props();
+    let { id }: { id: number} = $props();
+
+    function WindowClose() {
+        setSizes(id, 0)
+        if (id == 0 ) {
+            setMain(null)
+        }
+        else if ( id == 1 ) {
+            setSide(null)
+        }
+    }
+    function WindowMin() {
+        setSizes(id, 1)
+    }
+    function WindowMax() {
+        setSizes(id, 5)
+    }
+    
 </script>
 
 <div class="container pixel-corners">
@@ -17,12 +38,9 @@
         height: 32px;
         margin-left: 4px;
         margin-top: 4px;
-        margin-right: 8px;
+        margin-right: 20px;
+        width: 99%;
         gap: 1px;
-        /* padding-left: 0.2em;
-        padding-top: 0.2em;
-        padding-bottom: 0.2em; */
-        /* gap: 0.3em; */
     }
     button {
         height: 48px;
@@ -38,25 +56,25 @@
     .close:hover {
         background-image: url('../../../assets/buttons/x_hover_200.png');
     }
-    /* .close:touch {
+    .close:active {
         background-image: url('../../../assets/buttons/x_pressed_200.png');
-    } */
+    }
     .min {
         background-image: url('../../../assets/buttons/-_resting_200.png');
     }
     .min:hover {
         background-image: url('../../../assets/buttons/-_hover_200.png');
     }
-    /* .min:touch {
+    .min:active {
         background-image: url('../../../assets/buttons/-_pressed_200.png');
-    } */
+    }
     .max {
         background-image: url('../../../assets/buttons/+_resting_200.png');
     }
     .max:hover {
         background-image: url('../../../assets/buttons/+_hover_200.png');
     }
-    /* .max:touch {
+    .max:active {
         background-image: url('../../../assets/buttons/+_pressed_200.png');
-    } */
+    }
 </style>

@@ -1,6 +1,6 @@
 <script lang="ts">
     import type { Snippet } from "svelte";
-    import { getOpenId, setOpenId } from '../dropdownState.svelte.ts'
+    import { getOpenId, setOpenId } from '../../../state.store.svelte.ts'
 
     let { children, dropDownList, id}: { children: Snippet, dropDownList: Snippet, id: string } = $props();
     let isOpen = $derived(getOpenId() === id);

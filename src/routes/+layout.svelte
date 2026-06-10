@@ -4,6 +4,7 @@
 	// structure
 	import Header from '../lib/components/structure/Header.svelte';
 	import Body from '../lib/components/structure/Body.svelte';
+	import Body2 from '../lib/components/structure/Body2.svelte';
 	// import NavBar from '../lib/components/structure/NavBar.svelte';
 	import Nav2 from '../lib/components/structure/Nav2.svelte';
 	import Footer from '../lib/components/structure/Footer.svelte';
@@ -40,15 +41,13 @@
 <Footer /> -->
 
 <Header />
-<!-- <NavBar /> -->
 <Nav2 />
 
 {#if fight_toggle}
 	<Monster />
 {/if}
 
-<Body />
-<!-- <Main /> -->
+<Body2 />
 
 {@render children()}
 
