@@ -1,14 +1,10 @@
 ---
-title: "Phandalin"
-layout: ./src/lib/text/doc_layout.svelte
+layout: default
 
 ---
 
-<script>
 
-</script>
-
-# { title }
+# Phandalin
 
 This is overview text...
 

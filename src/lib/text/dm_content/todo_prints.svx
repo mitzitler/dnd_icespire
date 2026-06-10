@@ -1,0 +1,66 @@
+
+### Printed:
+
+- **[ 3 / 3]** - anchorites of Talos (wereboar)
+- **[ 3 / 3]** - ankhegs
+- **[ - / 1]** - banshee
+- **[ 15 / 15]** twig blights
+- **[ 6 / 6]** - vine blights
+- **[ 10 / 10]** - needle blights
+- **[ 1 / 9]** - boars
+- **[ 1 / 1]** - carrion crawler
+- **[ - / 1]** - centaur
+- **[ - / 1]** - commoner
+- **[ 1 / 1]** - young white dragon
+- **[ 2 / 5]** - dwarves
+- **[ - / 18]** - dwarf ghouls
+- **[ - / 1]** - giant crab
+- **[ 5 / 5]** - giant rats
+- **[ - / 8]** - giant spiders
+- **[ - / 1]** - Gothok the Thunder Boar (giant boar demon)
+- **[ - / 5]** - harpies
+- **[ - / 1]** - invisible stalker
+- **[ 1 / 1]** - manticore
+- **[ 1 / 1]** - mimic
+- **[ 2 / 2]** - ochre jellies
+- **[ - / 4]** - ogres
+- **[ 20 / 20]** - orcs
+- **[ 5 / 5]** - rock gnomes
+- **[ - / 1]** - skeletal horse
+- **[ - / 15]** - stirges
+- **[ - / 1]** - veteran
+- **[ 5 / 6]**  - wererats
+- **[ - / 3]** - will-o'-wisps
+
+### Painted:
+
+- **[ 0 / 3]** - anchorites of Talos (wereboar)
+- **[ 3 / 3]** - ankhegs
+- **[ - / 1]** - banshee
+- **[ - / 15]** twig blights
+- **[ - / 6]** - vine blights
+- **[ 10 / 10]** - needle blights
+- **[ 1 / 9]** - boars
+- **[ - / 1]** - carrion crawler
+- **[ - / 1]** - centaur
+- **[ - / 1]** - commoner
+- **[ 1 / 1]** - young white dragon
+- **[ 2 / 5]** - dwarves
+- **[ - / 18]** - dwarf ghouls
+- **[ - / 1]** - giant crab
+- **[ 4 / 5]** - giant rats
+- **[ - / 8]** - giant spiders
+- **[ - / 1]** - Gothok the Thunder Boar (giant boar demon)
+- **[ - / 5]** - harpies
+- **[ - / 1]** - invisible stalker
+- **[ 1 / 1]** - manticore
+- **[ 1 / 1]** - mimic
+- **[ 2 / 2]** - ochre jellies
+- **[ - / 4]** - ogres
+- **[ 5 / 20]** - orcs
+- **[ 0 / 5]** - rock gnomes
+- **[ - / 1]** - skeletal horse
+- **[ - / 15]** - stirges
+- **[ - / 1]** - veteran
+- **[ 0 / 6]**  - wererats
+- **[ - / 3]** - will-o'-wisps
