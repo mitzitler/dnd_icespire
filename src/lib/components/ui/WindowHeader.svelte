@@ -2,40 +2,61 @@
     let { WindowClose, WindowMin, WindowMax, main } = $props();
 </script>
 
-<div class="container">
-    <button  class="close" onclick={()=>WindowClose()}>x</button>
-    <button class="min"   onclick={()=>WindowMin()}>-</button>
-    <button class="max"   onclick={()=>WindowMax()}>+</button>
+<div class="container pixel-corners">
+    <button class="close"  aria-label="close" onclick={()=>WindowClose()}></button>
+    <button class="min"    aria-label="min"   onclick={()=>WindowMin()}></button>
+    <button class="max"    aria-label="max"   onclick={()=>WindowMax()}></button>
     <!-- <span class="space"></span> -->
 </div>
 
 <style>
     .container {
         flex-direction: row;
-        border: rgb(39, 37, 37) solid 2px ;
-        background-color: rgb(176, 176, 176);
-        height: 1.9em;
-        margin-left: 1em;
-        margin-right: 0.8em;
-        margin-bottom: 0.2em;
-        padding-left: 0.2em;
+        border: var(--color-idx-8) solid 2px ;
+        background-color: var(--color-idx-9);
+        height: 32px;
+        margin-left: 2px;
+        margin-top: 2px;
+        margin-right: 4px;
+        gap: 1px;
+        /* padding-left: 0.2em;
         padding-top: 0.2em;
-        padding-bottom: 0.2em;
-        gap: 0.3em;
+        padding-bottom: 0.2em; */
+        /* gap: 0.3em; */
     }
     button {
-        border-radius: 7px;
-        height: 1.3em;
-        width: 1.3em;
+        height: 48px;
+        width: 48px;
+        transform: scale(0.5);
+        margin: -10px;
         color: black;
+        cursor: pointer
     }
     .close {
-        background-color: red;
+        background-image: url('../../../assets/buttons/x_resting_200.png');
     }
+    .close:hover {
+        background-image: url('../../../assets/buttons/x_hover_200.png');
+    }
+    /* .close:touch {
+        background-image: url('../../../assets/buttons/x_pressed_200.png');
+    } */
     .min {
-        background-color: rgb(226, 204, 13);
+        background-image: url('../../../assets/buttons/-_resting_200.png');
     }
+    .min:hover {
+        background-image: url('../../../assets/buttons/-_hover_200.png');
+    }
+    /* .min:touch {
+        background-image: url('../../../assets/buttons/-_pressed_200.png');
+    } */
     .max {
-        background-color: rgb(109, 157, 13);
+        background-image: url('../../../assets/buttons/+_resting_200.png');
     }
+    .max:hover {
+        background-image: url('../../../assets/buttons/+_hover_200.png');
+    }
+    /* .max:touch {
+        background-image: url('../../../assets/buttons/+_pressed_200.png');
+    } */
 </style>

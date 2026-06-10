@@ -48,7 +48,7 @@
 {/if}
 
 <Body />
-<Main />
+<!-- <Main /> -->
 
 {@render children()}
 
@@ -76,6 +76,7 @@
 		--color-idx-10: #edce5e;
 		--color-idx-11: #fff6d4;
 	}
+	
 
 	:global(body) {
 		/* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
@@ -100,6 +101,9 @@
 		height: 300%;
 		width: 150% */
 		background-color: var(--color-idx-10);
+		/* height: 100%;
+		border: 4px solid var(--color-idx-2); */
+		z-index: -1;
 	}
 
 	/* .left-div {

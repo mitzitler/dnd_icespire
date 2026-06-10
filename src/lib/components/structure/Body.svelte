@@ -1,5 +1,6 @@
 <script>
     import WindowHeader from "../ui/WindowHeader.svelte";
+    import Window from "../ui/Window.svelte";
     function WindowClose() {
         console.log("window close function")
     }
@@ -11,14 +12,24 @@
     }
 </script>
 
+<!-- do a snippet here -->
 <div class="body">
-    <div class="pane" style="width: 55em; margin-right: 0.5em">
+    <Window>
+        <WindowHeader {WindowClose} {WindowMin} {WindowMax} main={true}/>
+    </Window>
+    <Window>
+        <WindowHeader {WindowClose} {WindowMin} {WindowMax} main={false} />
+    </Window>
+</div>
+
+<!-- <div class="body">
+    <div class="pane" style="width: 35em; margin-right: 0.5em">
         <WindowHeader {WindowClose} {WindowMin} {WindowMax} main={true}/>
     </div>
-    <div style="width: 35em">
+    <div style="width: 15em">
         <WindowHeader {WindowClose} {WindowMin} {WindowMax} main={false} />
     </div>
-</div>
+</div> -->
 
 <!-- <div class="body">
     <div class="pane">
@@ -44,10 +55,5 @@
         flex-direction: row;
     }
 
-    .pane {
-        display: flex;
-        flex-direction: column;
-        min-width: 20em;
-    }
 
 </style>
