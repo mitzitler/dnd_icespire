@@ -1,30 +1,28 @@
 <script lang="ts">
     import Dropdown2 from "../ui/Dropdown2.svelte";
+    import { setMain, setSide } from "../../../state.store.svelte.ts";
 
-    import { setMain } from "../../../state.store.svelte.ts";
-    import { mainRoutes } from "../../../imports.ts";
-
-    // async function loadMain(name: string) {
-    //     const path = mainRoutes[name][0]
-    //     const mod = await import(path);
-    //     console.log("clicked: ", name)
-    //     setMain(mod.default)
-    // }
     async function loadMain(path: string) {
         const mod = await import(path);
         console.log("clicked: ", path)
         setMain(mod.default)
+    }
+    async function loadSide(path: string) {
+        const mod = await import(path);
+        console.log("clicked: ", path)
+        setSide(mod.default)
     }
 
 </script>
 
 <!-- ref: -->
 <!-- https://www.reddit.com/r/sveltejs/comments/1dv1n9d/just_found_the_most_amazing_svelte_5_thing_which/ -->
-<nav>
+<!-- having class="pixel-corners" using position:fixed ruins the dropdown, for now removing -->
+<nav >
     <Dropdown2 id="places">
-        <span>places</span>
+        <div></div>
         {#snippet dropDownList(main = true)}
-            <div class="outer-format">
+            <div class="outer-format pixel-corners">
                 <div class="list-format">
                     <li><button onclick={()=>loadMain('../../text/dm_content/locations/phandalin.svx')}>Phandalin</button></li>
                     <li><button onclick={()=>loadMain('../../text/dm_content/locations/dwarven_excavation.svx')}>Dwarven Excavation</button></li>
@@ -39,9 +37,9 @@
 
 
     <Dropdown2 id="plots">
-        <span>Plots</span>
+        <span></span>
         {#snippet dropDownList(main = true)}
-            <div class="outer-format">
+            <div class="outer-format pixel-corners">
                 <div class="list-format">
                     <li><button onclick={()=>loadMain('../../text/dm_content/plotlines/zhentarim.svx')}>Zhentarim</button></li>
                     <li><button onclick={()=>loadMain('../../text/dm_content/plotlines/harpers.svx')}>Harpers</button></li>
@@ -54,9 +52,9 @@
 
 
     <Dropdown2 id="extras">
-        <span>Extras</span>
+        <span></span>
         {#snippet dropDownList(main = true)}
-            <div class="outer-format">
+            <div class="outer-format pixel-corners">
                 <div class="list-format">
                     <li>Secret Goals</li>
                     <li>Side Quests</li>
@@ -67,14 +65,14 @@
 
 
     <Dropdown2 id="references">
-        <span>References</span>
+        <span></span>
         {#snippet dropDownList(main = false)}
-            <div class="outer-format">
+            <div class="outer-format pixel-corners">
                 <div class="list-format">
-                    <li><button onclick={()=>loadMain('../../text/npc_content/all_npcs.svx')}>NPCs</button></li>
-                    <li><button onclick={()=>loadMain('../../text/npc_content/magic_items.svx')}>Items</button></li>
-                    <li><button onclick={()=>loadMain('../../text/dm_content/players/all_players.svx')}>Players</button></li>
-                    <li><button onclick={()=>loadMain('../../text/npc_content/prints_list.svx')}>Prints</button></li>
+                    <li><button onclick={()=>loadSide('../../text/npc_content/all_npcs.svx')}>NPCs</button></li>
+                    <li><button onclick={()=>loadSide('../../text/npc_content/magic_items.svx')}>Items</button></li>
+                    <li><button onclick={()=>loadSide('../../text/dm_content/players/all_players.svx')}>Players</button></li>
+                    <li><button onclick={()=>loadSide('../../text/npc_content/prints_list.svx')}>Prints</button></li>
                 </div>
             </div>
         {/snippet}
@@ -85,51 +83,51 @@
 <style>
 	nav {
 		display: flex;
-		gap: 3em;
 		flex-direction: row;
-		border-radius: 12px;
-		margin: 1em;
-		height: 5em;
-		width: 90%;
-		background-color: rgba(240, 248, 255, 0.298);
-		padding-top: 0.5em;
-        padding-left: 4em;
-
+		height: 4.7em;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+        margin-left: 0.75em;
+        margin-right: 0.75em;
+		background-color: var(--color-idx-8);
+        border: 2px solid var(--color-idx-1);
+		padding-top: 0.2em;
+        padding-left: 1em;
+        position: relative;
+        z-index: 1000;
+        font-family: 'Krungthep';
 	}	
 
     .outer-format {
         transform: translate(-22px, 2.5em) scale(1, 1.01);
-        /* transform: scale(1, 1.2); */
-        width: 206px;
-        height: 100%;
-		border-radius: 12px;
-        /* height: 110%; */
-        background-color: rgba(240, 248, 255, 0.55);
-        box-shadow: 0px 0px 3px 5px rgba(240, 248, 255, 0.5);
-        /* box-shadow: inset 0px 0px 40px 40px rgba(240, 248, 255, 0.7); */
+        margin-top: 14px;
+        padding-top: 6px;
+        padding-bottom: 8px;
+        background-color: var(--color-idx-8) ;
+        position: absolute;
+        z-index: 1001;
     }
 
     .list-format {
         transform: translate(2px, 0.02em) scale(1, 0.99);
-        /* transform: scale(1, 0.8); */
         width: 200px;
-        font-size: medium;
-        /* border: 1px solid blue; */
-		border-radius: 12px;
-		background-color: rgba(240, 248, 255, 0.2);
     }
 
     li {
-        margin-bottom: 0.2em;
-        transition-duration: 0.5s;
-        inline-size: 100%;
+        margin-left: 4px;
+        margin-right: 10px;
+        /* transition-duration: 0.5s; */
+        background: var(--color-idx-9);
+        font-size: small;
+        color: var(--color-idx-6);
     }
+    li:nth-child(odd) { background: var(--color-idx-10); }
 
 
     li:hover, li:focus {
-        background-color: yellowgreen;
+        font-weight: 500;
+        color: var(--color-idx-11);
         cursor: pointer;
-        border-radius: 12px;
     }
 
 </style>

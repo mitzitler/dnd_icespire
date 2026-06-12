@@ -1,0 +1,34 @@
+### Shopping Trip
+
+For: [Arfur](../players/arfur.svx), [Dopio](../players/dopio.svx) and [Gasshole](../players/gasshole.svx)
+
+Given by: [Carla Gon](../../npc_content/all_npcs.svx#carla-gon-homebrew) (Marla's younger sister)
+
+Session: Any
+
+Prep needed: Three versions of the IOU note, each with a hint to a different person's public goal.
+
+Because the owners and managers of the Inn are away, Carla is tending bar, but she would rather be out and about. She offers to take the three remaining party members out on a little "shopping trip".
+
+> I saw your two friends talking with Pete and then leaving together in a rush. Do you three want to run errands with me? We can all do a little shopping around town!
+
+She is somewhat a device for making sure the players keep track of the material component for their spells. She also promises to help find Dopio "some proper dancing shoes". She realizes she lost the package of letters she was going to leave at the Shrine, and needs to find them. She offers to the adventurers that if they find the letters for her, she'll pick some stuff up for them. She will also give each of them 60 sp.
+
+> I must have dropped them in the wooded area ??? north of ??? somewhere ??. They were tied together with a thick velvet red ribbon.
+
+When the adventurers get to the area, they will see ribbon threads in the branches. If they search, they will see the ribbon threads move higher and higher up the tree. It was a squirrel! The team will probably use mage hand to knock it out of the tree once they see it. They will notice though that there are letters numbered: *1, 2, 3, 4, 5, 6, 8, 9* The squirrel must still have letter 7! 
+
+If they cast Speak with Animals, the squirrel will quickly put the letter under itself and sit on it, and says its piece as quickly as it can, so it can then put the letter back in its mouth.
+
+> I'm a piece of a whole. Sometimes I have meaning alone, but mostly I must be joined with friends. When you speak, you may forget about me, but I am always there. What am I?
+
+The answer: a letter! The squirrel loves it, and runs the letter down the tree to give it to you in person.
+
+> Thanks! I've been trying to figure that one out forever!
+
+When they return to the shrine, Carla is waiting for them with gifts. She talks about the vandals always screwing with the shrine, but it's run by her good friend. Oops! I'm not sure if I was supposed to say that - we're not really supposed to tell people how well we know each other. Forget I said anything!
+
+Dopio gets [dancing shoes](../../npc_content/magic_items.md#thistles-used-slippers-of-study). Gasshole gets a component pouch. Arfur gets a riding sadle. She also gives them a quick IOU note on the back of some receipt from the store. The receipt however has a clue for one of the three of them, randomly. Carla can be easily persuaded to give them all IOUs, though.
+
+She finally tells Dopio that she knows Barthen is looking for a Viol and will take it off his hands for a fair price.
+

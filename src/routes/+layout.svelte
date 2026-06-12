@@ -4,6 +4,7 @@
 	// structure
 	import Header from '../lib/components/structure/Header.svelte';
 	import Body from '../lib/components/structure/Body.svelte';
+	import Body2 from '../lib/components/structure/Body2.svelte';
 	// import NavBar from '../lib/components/structure/NavBar.svelte';
 	import Nav2 from '../lib/components/structure/Nav2.svelte';
 	import Footer from '../lib/components/structure/Footer.svelte';
@@ -40,15 +41,13 @@
 <Footer /> -->
 
 <Header />
-<!-- <NavBar /> -->
 <Nav2 />
 
 {#if fight_toggle}
 	<Monster />
 {/if}
 
-<Body />
-<Main />
+<Body2 />
 
 {@render children()}
 
@@ -76,6 +75,7 @@
 		--color-idx-10: #edce5e;
 		--color-idx-11: #fff6d4;
 	}
+	
 
 	:global(body) {
 		/* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
@@ -100,6 +100,9 @@
 		height: 300%;
 		width: 150% */
 		background-color: var(--color-idx-10);
+		/* height: 100%;
+		border: 4px solid var(--color-idx-2); */
+		z-index: -1;
 	}
 
 	/* .left-div {
