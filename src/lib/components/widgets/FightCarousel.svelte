@@ -4,11 +4,12 @@
     import { dndzone } from "svelte-dnd-action";
     import { MonsterConfig, FightConfigItem } from "../../../imports.ts";
     import FightCard from "./FightCard.svelte";
+    import PlayerCard from "./PlayerCard.svelte";
     // this receives as a prop a FightConfig object from the svx in main panel
 
     let cardInfoReady = $state(false);
 
-    let players = ['Al', 'Arfur', 'Eve', 'Dopio', 'Gasshole'];
+    let players = ['Al', 'Arfer', 'Eve', 'Dopio', 'Gasshole'];
     let monsters: MonsterConfig = $props();
     // let allItems = $derived(monsters);
     let items: FightConfigItem[] = $state([]);
@@ -62,7 +63,7 @@
                         ondblclick={() => item.gray = !item.gray} 
                         role="button" tabindex="0">
                         {#if item.monster_type = false}
-                            <div>Player: {item.name}</div>
+                            <PlayerCard player= {item.name} />
                         {:else}
                             <FightCard monsterAndIdentifier={item.name} defaultInitiative={item.initiative_default}/>
                         {/if}

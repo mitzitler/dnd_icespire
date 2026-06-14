@@ -8,11 +8,13 @@
     }
 </script>
 
-<span onclick={()=>loadSide()}>
+<!-- <span onclick={()=>loadSide()}>
     <a>
     {text}
     </a>
-</span>
+</span> -->
+
+<span></span>
 
 <style>
     span:hover {
