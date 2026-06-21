@@ -20,6 +20,8 @@ This note is written with the markings of Thieves Cant, and [Eve](eve.md) can de
 
 And finally, it's important to see that the note actually does not lean one way or another if it wanted to assassination to happen.
 
+Note: he was saved by some entity. His memory on the whole thing is spotty. But this entity will become his patron when he multiclasses into warlock in a few levels.
+
 ## Secret Goal
 [He is the treasure hunter](../secret_goals/1treasure_hunter.md)
 He needs to have opportunities to sabotage the crew in order to further his quest. He is aiming for a roll of 30+.
