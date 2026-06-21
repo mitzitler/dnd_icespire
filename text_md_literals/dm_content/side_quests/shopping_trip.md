@@ -1,8 +1,8 @@
 ### Shopping Trip
 
-For: [Arfer](../players/arfer.svx), [Dopio](../players/dopio.svx) and [Gasshole](../players/gasshole.svx)
+For: [Arfer](../players/arfer.md), [Dopio](../players/dopio.md) and [Gasshole](../players/gasshole.md)
 
-Given by: [Carla Gon](../../npc_content/all_npcs.svx#carla-gon-homebrew) (Marla's younger sister)
+Given by: [Carla Gon](../../npc_content/all_npcs.md#carla-gon-homebrew) (Marla's younger sister)
 
 Session: Any
 

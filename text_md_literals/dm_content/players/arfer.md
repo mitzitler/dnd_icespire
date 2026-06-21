@@ -6,7 +6,7 @@ At the start of the campaign, Arfer Smeed is a happy-go-lucky camper/guide and w
 
 ## Public Goal
 
-Ideally, Arfer is looking for some sort of secret shrine. This was the goal of their last team's mission, which was unsuccesful. After completing the side quest, [shopping trip](../side_quests/shopping_trip.svx), Arfer gets a clue:
+Ideally, Arfer is looking for some sort of secret shrine. This was the goal of their last team's mission, which was unsuccesful. After completing the side quest, [shopping trip](../side_quests/shopping_trip.md), Arfer gets a clue:
 
 > A holy place so far and lost <br> Beyond the Gentle reach of Syl <br>
 Gloomy in Hill <br> O, mete of Star <br> For find only good spirits will
@@ -14,5 +14,5 @@ Gloomy in Hill <br> O, mete of Star <br> For find only good spirits will
 Essentially, the lost shrine of Sylanvus in the region is going to be somewhere in the Starmetal Hills.
 
 ## Secret Goal
-They have [no nose for bolognese](../secret_goals/4no_nose_for_bolognese.svx)
+They have [no nose for bolognese](../secret_goals/4no_nose_for_bolognese.md)
 
