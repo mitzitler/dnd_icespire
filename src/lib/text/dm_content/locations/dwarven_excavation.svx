@@ -13,7 +13,7 @@ import Link from '../../../components/ui/Link.svelte'
 
 ## Surrounding Lore
 
-<Link text="Halia Thornton" path="../../npc_content/all_npcs.svx#halia-thornton"></Link> <p>and</p> <Link text="the Zhentarim" path="../plotlines/zhentarim.svx"></Link> have an interest in controlling or at least being the exclusive shipping partners for all mining and industrial sites in the area. She suspects this one is a dead end though. She asks the adventurers to grab her an extremely rare bloodstone, and that she will make it worth their while. In truth, this is a test, and the bloodstone is just a normal gem.
+Halia Thornton and the Zhentarim have an interest in controlling or at least being the exclusive shipping partners for all mining and industrial sites in the area. She suspects this one is a dead end though. She asks the adventurers to grab her an extremely rare bloodstone, and that she will make it worth their while. In truth, this is a test, and the bloodstone is just a normal gem.
 
 The original inhabitants of the temple were working with [The Iron Throne](../plotlines/ironthrone.svx), a mercenary group from the eastern end of the continent. The Iron Throne contracted orc warbands to scout the region over a hundred years ago. Though the organization is no longer working in the area, and is greatly reduced in size, the relics remain scattered.
 
