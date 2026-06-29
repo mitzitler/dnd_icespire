@@ -17,3 +17,4 @@ Goals prep:
 Ideas:
 - This is about Don-Jon Raskin. Players will learn that he has NOTHING to do with the Zhent (Im sure they will pry). Instead, he is a pawn amongst several games. 
 - Using detect magic or a very high investigation check shows that there is a spy bug construct which is embedded into the goggles
+
