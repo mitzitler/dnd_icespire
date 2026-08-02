@@ -11,6 +11,7 @@
 	// panes
 
 	// import MonsterCard from '../lib/components/widgets/MonsterCard.svelte';
+	import Example from '../lib/components/ui/Example.svelte';
 
 
 	// const { children } = $props();
@@ -28,6 +29,10 @@
 {/if} -->
 
 <!-- <MonsterCard /> -->
+ <div class="row">
+	<Example />
+	<Example />
+ </div>
 
 <Body2 />
 
@@ -57,8 +62,11 @@
 		font-family: 'Krungthep';
 		background-color: var(--color-idx-10);
 		height: 100vh;
-		border: 4px solid var(--color-idx-2);
+		/* border: 4px solid var(--color-idx-2); */
 		z-index: -1;
+	}
+	.row {
+		flex-direction: row;
 	}
 
 </style>
