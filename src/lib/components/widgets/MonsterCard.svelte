@@ -1,19 +1,16 @@
 <script lang="ts">
-    import { randomInt } from "node:crypto";
 
-
-    // let rand = randomInt(5)
-    // let imgPath = "../../../assets/static/"
-    // switch (rand) {
-    //      case 0: imgPath = imgPath + "fight_blue_card_200.png";
-    //      case 1: imgPath = imgPath + "fight_orange_card_200.png";
-    //      case 2: imgPath = imgPath + "fight_red_card_200.png";
-    //      case 3: imgPath = imgPath + "fight_teal_card_200.png";
-    //      case 4: imgPath = imgPath + "fight_yellow_card_200.png";
-    // }
-    // let bgImg = `url("../../../assets/static/fight_teal_card_200.png")`
-    // let downedImg = `url( {imgPath} fight_downed_card_200.png")`
-    // let turnoverImg = imgPath + "fight_turnover_card_200.png"
+    // const bgs = [
+    //     '/cards/fight_blue_card_200.png',
+    //     '/cards/fight_orange_card_200.png',
+    //     '/cards/fight_red_card_200.png',
+    //     '/cards/fight_teal_card_200.png',
+    //     '/cards/fight_yellow_card_200.png',
+    // ]
+    // const rand = Math.floor(Math.random() * 5)
+    // let bgImg = `url("${bgs[rand]}")`
+    // let downedImg = `url("/cards/fight_downed_card_200.png")`
+    // let turnoverImg = '/cards/fight_turnover_card_200.png'
     // let turnover = $state(false)
     // let downed = $state(false)
 
@@ -104,7 +101,8 @@
         direction: columns;
         color: var(--color-idx-2);
         background-color: var(--color-idx-8);
-        /* background-image: var(--bg-image); */
+        /* background-image: url("/cards/fight_teal_card_200.png"); */
+        background-image: var(--bg-image);
     }
     /* .downed { background-image: var(--bg-downed-image); } */
     /* .turnover { background-image: var(--bg-turnover-image); } */

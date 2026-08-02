@@ -125,7 +125,25 @@ He tells the adventurers about some tell tale signs to identify Harpers
 
 ### Fights
 
+![Orc Raider Stat Block](../../npc_content/monster_stat_blocks/orc.png)
+
+
+#### Dining Room - 5 Orcs
+
+
+#### Common Room - 6 Orcs
+
+
+#### Big Al's Room - 2 Orcs
+
+
+#### Ranch Hand Bedroom - 4 Orcs
+
+
+#### Upstairs Closet - 1 Orc
+
 
 
 ## Follow up
 
+He'll tell them all his theories about the secret societies in the area.

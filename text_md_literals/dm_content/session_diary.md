@@ -1,18 +1,31 @@
 # Session Diary
 
-## Session 2
+## Session 4
 
-Eve & Al do Petes request
-& they are suspicious
+### arfer fever dream
 
-Gasshole flirts with carla gon
-Letter 7 references Sister Garaele
 
-- PME, halia asks for bloodstone
-- Next day
-- Now they go to dwarven excavation
+### manticore refugee encounter
 
-Cryovain surprise fight - gasshole does enough damage for him to run away. the rest of the diary from the session is just fight notes
+
+### phandalin
+
+*Pickled pete gives them one acid vial via Marla. If they get a 6 on a d6, then facktore has news for them.*
+
+there is not as much to do in town this time. pickled pete is not in town. 
+
+is they visit halia, they get the full "stone lightning" lowdown, but nothing about cursed objects. 
+
+### things they are allowed to learn
+
+harpers are good and marla carla and sister garaele are harpers
+
+stone lightning refers to a defunct organization iron throne, though its unclear why their stuff is so present 
+
+the dragon is living in a very old hold
+
+there are mines, excavations, panning sites and logging sites all over the region. though its racked with chaos its also ripe for opportunity. a strategic player could use the chaos of the dragon to reshape the area into one huge money funnel which also facilitates some major overland shipping routes.
+
 
 ## Session 3 
 
@@ -61,3 +74,17 @@ they wake up and its a new day. eve discovers a IOU from carla to sister, which 
 they do a good job at the gnomenguard quest - they get the information from cryovain
 
 they will start session 4 from leaving gnomenguard, and will have the refugee encounter on the way. also, dopio starts with a secret goal roll!!
+
+## Session 2
+
+Eve & Al do Petes request
+& they are suspicious
+
+Gasshole flirts with carla gon
+Letter 7 references Sister Garaele
+
+- PME, halia asks for bloodstone
+- Next day
+- Now they go to dwarven excavation
+
+Cryovain surprise fight - gasshole does enough damage for him to run away. the rest of the diary from the session is just fight notes
