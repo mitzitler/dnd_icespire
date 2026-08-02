@@ -25,6 +25,10 @@ But they left behind cursed items, politcal dogma, and a variety of traps - clev
 
 Sister Garaele is effectively the chapter leader for the Phandalin branch of the Harpers, and has significant oversight into the whole region. She knows about the Throne's remains scattered around, and has a bad feeling about it
 
+### Pickled Pete 
+
+Says the orcs call it "the stone lightning".
+
 ## Haunting of Axeholm
 Axeholm is a quest location, an abandoned mine. The players will find that the ghoul literally haunting this mine was once an elf who was a high up 
 

@@ -26,8 +26,10 @@ He is an elf, younger than middle aged, gruff and mean. He is a renowned chef, t
 
 *To Do: What is his last name?*
 
-#### Big Wet Fred ***homebrew***
-*Not established yet: He is a young human man and a stablemaster at the edge of town. He has a horse and a mule for sale. For a weekly fee, he will also house, feed and groom the horse on behalf of the party. He is called Big Wet Fred because he always looks beet red in the face, and always seems to be drenched in sweat. He is easily confused.*
+#### Frederico - Big Wet Fred ***homebrew***
+He is a young human man and a stablemaster at the edge of town. He has a horse and a mule for sale. For a weekly fee, he will also house, feed and groom the horse on behalf of the party. He is called Big Wet Fred because he always looks beet red in the face, and always seems to be drenched in sweat. He is easily confused.
+
+Has a mysterious trapdoor in his house leading to a basement.
 
 #### Carla Gon ***homebrew***
 Marla's sister-in-law. Despite not being blood related, she seems like a younger, carbon copy of Marla in demeanor, but she is also affiliated with the Harpers. This is why she leaves town for a period of time. She has three outstanding IOUs for [Arfer](../dm_content/players/arfer.md), [Dopio](../dm_content/players/dopio.md) and [Gasshole](../dm_content/players/gasshole.md). She won't have to action on them until she's back in the inn, which won't be until session 4 or 5.
@@ -39,7 +41,9 @@ Marla's sister-in-law. Despite not being blood related, she seems like a younger
 
 Proprietor of the Lionshield Coster. She sells armor and weapons. She is a member of the Lionshields, a merchant company based out of Yartar, far out east. 
 
-*Not established yet: when the adventurers look around her shop, they will see crates labeled YTAR. If they ask her about them, she will say 'I asked those boys Ander and Thistle to help load up these crates for shipment back home - but they can't spell for shit. I said clearly YAR - TAR.'*
+**They caught this, but didnt notice**: when the adventurers look around her shop, they will see crates labeled YTAR. 
+
+*Didn't ask yet: If they ask her about them, she will say 'I asked those boys Ander and Thistle to help load up these crates for shipment back home - but they can't spell for shit. I said clearly YAR - TAR.'*
 
 ### Elmar Barthen
 
@@ -49,7 +53,7 @@ Balding human man of fifty years. Sells provisions at Barthen's Provisions. He e
 
 Lean, brown-eyed, sharp human woman of about 35 who operates out of the Phandalin Miner's Exchange. With a little investigation, the characters will find out she is a high level operative of the Zhentarim **this is canon**. She is slowly working to bring Phandalin under her control.
 
-*Not established yet: Vocally, she will be anxious about the Orc threat, and will dissuade the adventurers from trying to physically stop them (more than they already have). She is working with the Orcs, and until this is known, she will give the adventurers incorrect information about them.*
+Vocally, she will be anxious about the Orc threat, and will dissuade the adventurers from trying to physically stop them (more than they already have). She is working with the Orcs, and until this is known, she will give the adventurers incorrect information about them.
 
 *Her goal is twofold. On the one hand, she wants to be the middleman for as much mining equipment and output in the region as possible. On the other hand, she also wants to catalogue the land deeds that come through her exchange for a hard copy record of the influential workers in the area. Through this, she has taken special interest in certain quests - especially the dwarven excavation. She will pay you extra to recover a specific gem stolen by Orcs and hidden in the caves. This gem is in the hall of greed, by it doesn't make sense that it would have been stolen by the Orcs?* 
 
@@ -57,13 +61,17 @@ Lean, brown-eyed, sharp human woman of about 35 who operates out of the Phandali
 
 ### Sharlay Grift **homebrew**
 
-*Not established yet: Halia's right hand woman in town. She is visibly younger than Halia, but is a half-elf. She immediately takes a liking to Eve, because she recognizes their shared backgrounds. Also is a little gay. She has green eyes.*
+Halia's right hand woman in town. She is visibly younger than Halia, but is a half-elf. She immediately takes a liking to Eve, because she recognizes their shared backgrounds. Also is a little gay. She has green eyes.
+
+As a child she was forced into the child fighting pits in Neverwinter. She has a faded Zhent tatoo on her neck. She will do research into the Iron Throne symbol.
 
 ### Facktoré
 
 A female artificer rock gnome. She is unusually diminuitive due to the type of mushrooms which has been the backbone of her diet for many years. She lives at [Gnomenguard](../dm_content/locations/gnomenguard.md) and is met there during the quest. She becomes a 'psuedo-ally' and will have plotlines related to the eventual dragon encounter.
 
 Her estranged brother, Kantortké is one candidate for the [Father's Killer](../dm_content/secret_goals/2avenging_the_murder.md).
+
+Gasshole gave a her a sending stone to give them messages.
 
 ### Kantorké ***homebrew***
 
@@ -72,6 +80,8 @@ Facktoré's estranged brother. He is met at Gnomenguard AFTER the initial quest-
 ### Sister Garaele
 
 She is a zelous elf acolyte of Tymora, goddess of luck, and tends the shrine in the central square of town. She is a [Harper](../dm_content/plotlines/harpers.md) and is out of town for most of the adventure. 
+
+The adventurers meet her, she is fixing up the shrine of luck. She is kind of secretive about her relationship with Marla and her letters but she is kind. They discover a note at the shrine the day after they meet her, an IOU from Carla: "IOU - Thank you for helping me rise in this organization!" With a Harper symbol.
 
 
 ## Quest-specific NPCs

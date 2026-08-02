@@ -4,10 +4,6 @@
 
 ### Prep needed:
 
-Physical bits:
-- Ankhegs?
-- Boar
-
 Planning bits:
 - Puzzles relating to the "tremorsense"
 
@@ -88,7 +84,7 @@ Tibor Wester, a human commoner, has barricaded himself in the smaller office to 
 
 #### L4 - River Dock
 
-Rowboats and river barges can be moored here, though there are none present when the characters arrive.
+Rowboats and river barges can be moored here, though there are none present when the characters arrive. If the players walk all the way down the dock, they see something in the water. Depending, the thing in the water starts towards the players - it's two Sahuagin's, which is very curious, because these are moreso ocean creatures, not lake creatures.
 
 #### L5 - North Camp
 
@@ -101,6 +97,19 @@ This camp is similar to area L5, but three ankhegs are hidden underneath it. Whe
 
 ### Fights
 
+![Ankheg Stat Block](../../npc_content/monster_stat_blocks/ankheg.png)
+#### Office & Tool Shed - 1 Ankheg
+
+Explodes from the floorboards
+
+#### South Camp - 3 Ankhegs
+
+Each only jumps out when it is walked over
+
+
+![Sahuagin Stat Block](../../npc_content/monster_stat_blocks/sahuagin.png)
+
+#### Docks - 2 Sahuagin (three if you are feeling crazy)
 
 
 ## Follow up

@@ -63,7 +63,7 @@ Wonderous item, common:
 While holding this 10-foot pole, you can use an action to speak a command word and cause it to collapse into a 1-foot-long rod, for ease of storage. The pole’s weight doesn’t change. You can use an action to speak a different command word and cause the rod to revert to a pole; however, the rod will elongate only as far as the surrounding space allows.
 
 
-## Mithril Chain Mail
+### Mithril Chain Mail
 
 Armor (chain mail), uncommon:
 
@@ -72,6 +72,12 @@ Mithral is a light, flexible metal. If the armor normally imposes disadvantage o
 Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
 
 Notes: Stealth Disadvantage: Remove, Combat, Warding, Str. 13 Required, Stealth Disadvantage (??)
+
+### Goggles of Night
+
+Wonderous item, uncommon:
+
+While wearing these dark lenses, you have Darkvision out to 60 feet. If you already have Darkvision, wearing the goggles increases its range by 60 feet.
 
 ### Lute of Illusions
 
@@ -145,7 +151,8 @@ Not to be confused with the Hat of Wizardry, this hat offers a magic user an add
 
 A pointless box. When you open it, a mage hand appears and closes it again. The holder will get increasingly frustrated trying to figure out if the box has a use at all.
 
-### Blade of the Pariah
+### Blade of the Pariah / Blade of the Patriarch
+Called the *Blade of the Patriarch* before it is revealed.
 
 https://alchemygamelab.com/random-cursed-items-table
 (Cursed Magic Weapon)
