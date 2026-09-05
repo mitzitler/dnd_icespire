@@ -200,7 +200,7 @@ This room appears to be the edge of a cliff - there is no exit to the east, but 
 ##### 16 - Twig blights
 (combat)
 
-This area is a heavily wooded forest, lit be the setting sun. You see some paces ahead of you what looks like the doors you've been seeing: they are colored archways, red blue and yellow - one of them being the one you just stumbled out of. 
+This area is a heavily wooded forest, lit by the setting sun. You see some paces ahead of you what looks like the doors you've been seeing: they are colored archways, red blue and yellow - one of them being the one you just stumbled out of. 
 
 As you walk slightly further, stumbling, you hear a rustle. For a DC 12 perception, you notice the ambush. Else, you are surprised by it.
 
