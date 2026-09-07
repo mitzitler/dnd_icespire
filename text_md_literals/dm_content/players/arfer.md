@@ -16,3 +16,6 @@ Essentially, the lost shrine of Sylanvus in the region is going to be somewhere 
 ## Secret Goal
 They have [no nose for bolognese](../secret_goals/4no_nose_for_bolognese.md)
 
+## Fever Dream
+
+In session 4 they had a fever dream which gave hints about the Iron Throne, the Anchorites, and had visions of Sister Garaele as a child and Harbin in the future serving a dinner.
