@@ -266,3 +266,19 @@ Facktoré says: ????
 And urges them to return
 
 On each return, roll a d4. If you roll a 4, her estranged brother [Kantorké](../../npc_content/all_npcs.md#kantorké-homebrew) is in G1 when they leave. He is one of the candidates for the [Father's Killer](../secret_goals/2avenging_the_murder.md) quest.
+
+### As of Session 4
+
+At the end of session 4, the sending stone's message was that Facktore has something to tell them. When they visit, she will tell them half of the thing that has been built. When they return, she will give them the finished product. 
+
+1st succesful visit:
+
+> Your party was so patient with me when I was taken by madness by my crossbow invention so I felt it was only fitting... But unfortunately it is hundreds of pounds. Even with magic to make it smaller, I can't find a way yet to make it collapse so it can be actually useful to you all... I will keep working though
+
+And she reveals a giant crossbow, similar to the "scorpion" in game of thrones. 
+
+2nd successful visit:
+
+> I was inspired by the Pole of Collapsing....
+
+etc

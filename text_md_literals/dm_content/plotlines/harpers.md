@@ -16,6 +16,8 @@ They have four main focuses in the region during the time the campaign takes pla
 
 Tends the shrine - for real! It's not just a front. She is the main point of contact for Phandalin, and the shrine is a helpful way for her to recognize who is needy in the town.
 
+**They know she is a Harper**
+
 ### [Marla Gon](../../npc_content/all_npcs.md#marla-gon-homebrew)
 
 Waitress at the Stonehill Inn.
@@ -33,3 +35,17 @@ Former sheriff of Triboar, and a rare True Neutral character. He sought to drive
 ### [Pickled Pete](../../npc_content/all_npcs.md#pickled-pete-homebrew)
 
 Because of the time he spends at the Stonehill, he knows that Marla and Toblen's semi-frequent absenses are due to the amount of travel they have as Harpers. He does not really consider them as useful or not-useful. They help people, which he sees as good, but he's not one of the people who is helped, which is fine, because he doesn't need help. He will hint to the adventurers after the [necklace hunt](../side_quests/necklace_hunt.md) that Marla and Toblen have to do their spy network reporting.
+
+## Where are they
+
+## Phandalin
+
+As shown by the shrine, there is a harper presence. The sister is one of the heads of the order in the region, and as a devotee of Tymora, she dictates that the strines to Tymora are symbols of their presence. They patrol the Triboar trail in general.
+
+## Phandalin HQ
+
+The potter's hidden map will show that there is a local Harper hideout underneath Marla Gon's house. They will be able to visit this location to actually confer directly with Harpers.
+
+## [Coneyberry](../locations/coneyberry.md)
+
+In Coneyberry there is also a shrine, but it is in disarray. There are hidden scouts even still as the town is in ruins. Some of the refugees who knew about the Harpers had asked / been promised help from them in their relocation efforts.

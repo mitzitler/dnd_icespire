@@ -16,9 +16,13 @@ They have these encounters, in no particular order:
 ### Petunia the Cow
 Between Conyberry and the ranch, the characters spot Petunia the cow in a field a few hundred feet off the Triboar Trail. Petunia wears a cowbell around her neck. Characters who approach her spot a brand on her hindquarters: the letters BAK. Petunia has a calm, unflappable demeanor. If treated well, she follows her new benefactors everywhere.
 
-### Horses in Conyberry
+### Horses *Past* Conyberry
 
-The abandoned town of Conyberry is eerily silent except for the whistling of the wind as it blows through the settlement’s burned and crumbled-down structures. As the characters make their way through or around the ruins, they spot three unsaddled riding horses grazing near an old well. Anyone who succeeds on a DC 10 Wisdom (Perception) check sees that the horses are branded with the letters BAK (for Big Al Kalazorn). A character who succeeds on a DC 15 Wisdom (Animal Handling) check can approach a horse without startling it, and can even ride it.
+~~The abandoned town of Conyberry is eerily silent except for the whistling of the wind as it blows through the settlement’s burned and crumbled-down structures.~~ 
+
+After leaving Coneyberry, they have this encounter in between it and the ranch.
+
+As the characters make their way through or around the ruins, they spot three unsaddled riding horses grazing near an old well. Anyone who succeeds on a **DC 10 Wisdom (Perception) check** sees that the horses are branded with the letters BAK (for Big Al Kalazorn). A character who succeeds on a **DC 15 Wisdom (Animal Handling) check** can approach a horse without startling it, and can even ride it.
 
 
 ## Actual Quest
@@ -51,7 +55,7 @@ Raucous orcs dwell in the farmhouse, consuming Big Al’s ale and food stores. T
 
 ![Butterskull Ranch](../map-02.02-butterskull-ranch.jpg)
 
-There are 18 orcs. 
+There are 20 orcs. 
 
 #### B1 - Kitchen
 
@@ -110,9 +114,11 @@ Wooden doors set against the north side of the farmhouse cover stone stairs lead
 
 > The cellar has a dirt floor, walls of mortared stone, and an eight-foot-high plank ceiling braced by wooden pillars. Tied to a chair is a large figure with a burlap sack pulled over his head. Shelves along the walls are lined with skulls made of butter and protected by a thin coating of wax.
 
+There are two orcs guarding Big Al are immediately alerted to players entrance. They may make moves to threaten to kill Big Al as leverage.
+
 The bound figure is Alfonse Kalazorn, a human veteran. It takes 1 minute for a character to free Big Al from his rope bonds. Having been beaten by the orcs, he has 9 hit points remaining and appreciates any healing the characters can provide. He is also without weapons and armor (AC 11).
 
-Once liberated, Big Al can be convinced to abandon his ranch by any character who succeeds on a DC 10 Charisma (Intimidation or Persuasion) check. But he would rather stay, borrow a weapon, and kill any orcs that remain.
+Once liberated, Big Al can be convinced to abandon his ranch by any character who succeeds on a **DC 10 Charisma (Intimidation or Persuasion) check**. But he would rather stay, borrow a weapon, and kill any orcs that remain.
 
 Big Al can’t turn a profit without his prized cow. He offers his suit of mithral chain mail (hidden in area B6) as a reward for her safe return. If the characters didn’t bring Petunia with them, they can scour the countryside for her. At the end of each hour spent searching, roll a d6. On a roll of 6, the party finds Petunia. If one or more characters search on horseback, they find Petunia on a roll of 5 or 6.
 
@@ -130,19 +136,106 @@ He tells the adventurers about some tell tale signs to identify Harpers
 
 #### Dining Room - 5 Orcs
 
+Orc 1 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 2 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 3 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 4 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 5 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+
 
 #### Common Room - 6 Orcs
+
+Orc 1 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 2 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 3 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 4 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 5 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+
+Orc 6 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
 
 
 #### Big Al's Room - 2 Orcs
 
+Orc 1 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 2 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
 
 #### Ranch Hand Bedroom - 4 Orcs
+
+Orc 1 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 2 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 3 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 4 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
 
 
 #### Upstairs Closet - 1 Orc
 
+Orc 1 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
 
+[ 16 / 16 ]
+
+![Veteran Stat Block](../../npc_content/monster_stat_blocks/veteran.png)
+
+#### Basement - 2 Orcs and Big Al
+
+Orc 1 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+Orc 2 has AC 13, HP 16, speed 30ft, reach 5ft and two actions: **Greataxe** with +5 to hit, and 1d12 + 3 slashing damage, and **Javelin** with +5 to hit, and 1d6 + 3 piercing damage (range 30/120 ft). It has 2 javelins.
+
+[ 16 / 16 ]
+
+The bound figure is Alfonse Kalazorn, a human veteran. It takes 1 minute (10 turns) for a character to free Big Al from his rope bonds, or 2 players working together 5 turns. Having been beaten by the orcs, he has 9 hit points remaining and appreciates any healing the characters can provide. He is also without weapons and armor (AC 11).
+
+[ 9 / 58 ]
 
 ## Follow up
 

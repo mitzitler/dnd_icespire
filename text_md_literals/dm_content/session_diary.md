@@ -1,5 +1,18 @@
 # Session Diary
 
+## Session 5
+
+dont be afraid to say they stumble upon corpses for dramatic effect
+
+### things they are allowed to learn
+
+the name iron throne, that its the stone lightning, that they are a dead end basically, a totally missing organization whos symbolism has perhaps been co opted by the orc tribes
+
+the existence of the anchorites
+
+??
+
+
 ## Session 4
 
 ### arfer fever dream
