@@ -42,10 +42,10 @@ Etc..
 | 12 | Flail +1 |
 | 13 | Greatsword +1 |
 | 14 | Light Armor +1 |
-| 15 | |
-| 16 | |
-| 17 | |
-| 18 | |
+| 15 | All Martial +1 |
+| 16 | All Ranged +1 |
+| 17 | All Armor +1 |
+| 18 | First thing they ask for |
 | 19 | Scale Armor +1 |
 | 20 | Chain Armor +1 |
 

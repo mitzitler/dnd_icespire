@@ -107,8 +107,12 @@ In each room, the room is totally empty. In the last room they find, there is a 
 ### C10 - Real Storehouse
 
 The storehouse is locked, and needs a **DC 20 sleight of hand**, or a **DC 15 strength**. Inside they find all the looted valuables from the town. This includes:
-- 4 large paintings, each weighing XX and valued at 20 + 2d4 GP*
-- 2 identical delicate vases to the one back at the inn, just like with the first one, the value is unknown, and walking it to Phandalin will double your walking speed. Only one can be carried per person.
+- 4 large paintings, each weighing 4lb and valued at 20 + 2d4 GP*
+    - 25 GP
+    - 27 GP
+    - 17 GP
+    - 12 GP
+- 2 identical delicate vases to the one back at the inn, just like with the first one, the value is unknown, and walking it to Phandalin will halve your walking speed. Only one can be carried per person.
 - 250 GP
 - 180 SP
 - 3 Healing potions
