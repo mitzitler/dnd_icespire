@@ -10,8 +10,54 @@ the name iron throne, that its the stone lightning, that they are a dead end bas
 
 the existence of the anchorites
 
-??
+### starting the day
 
+eve and dopio meet leto and he is hundreds of years old (he is human). leto doesnt know about the dragon. "just doing drinks and spells". he smells not good! leto knows alfonse - they had a casual dukes of hazard type relationship with big al.
+
+eve and arfer are going to the general store:
+
+arfer asks for moonseed leaf, which isnt there, but it grows along the triboar trail (found with a DC 12 survival or nature check)
+
+arfer gets the arabic gum for invis, but needs to get eyelash from the wizard (1 gp)
+
+eve wants to steal arrows - succeeds, but doesnt suceed in lying to arfer about it
+
+dopio and al are going to the weapons store:
+
+its a +1 for the first thing they ask for - which is a longbow!
+
+al buys two handaxes
+the boys fumble this attempted theft
+the +1 longbow is 120 gp
+dopio and al each give gas 16 gp and they all go in on the +1 longbow
+
+**waiting for a note from marla ??**
+
+they go to harbin and sell him leto's old wizard hat disguised as [the hat of wizardry](../npc_content/magic_items.md#hat-of-wizardy) - 
+
+they set out and find petunia! she follows them. dopio is nervous about it
+
+eve and gasshole snoop through wizards stuff and find the locket and the note from the monk master
+
+
+they encounter coneyberry
+
+### coneyberry
+
+they finish coneyberry and do some hanging out before walking into the ranch
+
+gasshole thinks leto maybe killed his dad and investigates
+
+lou lowkey guessed that the iron throne stuff was entirely red herring - actually maybe they think the group is reactivating, or maybe someone is using the symbolism as a false flag
+
+dopio reveals his involvement with the assassination plot of lionel ytar. hes been on the run because of how he was falsely accused of the assassination plot of duke ytar.
+
+"can i potentially intervene with some wizardry?"
+
+the assassination plot happened a lot over writing which is why al didnt understand any of it
+
+
+### butterskull ranch
 
 ## Session 4
 
