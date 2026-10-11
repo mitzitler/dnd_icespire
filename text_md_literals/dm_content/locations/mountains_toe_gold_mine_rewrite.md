@@ -231,6 +231,7 @@ Just beneath the dirt, with a successful investigation, can be spotted, the [Bla
 
 ![Wererat Stat Block](../../npc_content/monster_stat_blocks/wererat.png)
 ![Lycanthropy](../../npc_content/monster_stat_blocks/wererat_lycanthropy_curse.png)
+![Carrion Crawler](../../npc_content/monster_stat_blocks/carrion_crawler.png)
 
 #### Storeroom
 
