@@ -1,5 +1,11 @@
 # The Anchorites of Talos
 
+## NEW: Their Endgame ?
+
+I am toying with the idea of a lead anchorite, or perhaps sometone working in tandem with them, being the ACTUAL BBEG (big bad evil guy) at the end - either they fight him alongside the dragon, or after the dragon. Either way, he gets away.
+
+This guy is a devoted acolye of Talos, perhaps a war cleric (or death cleric)? and seeks to bring ultimate destructive force to the region - most of all via elemental chaos. He is tied to the Volcanos eruption, a force of destruction which first was a wave of nature and then a wave of greed and disorder.
+
 ## Who are they
 
 This group is very rooted in the original description in the campaign, and this text has been more or less ripped from the forgotten realms wiki. The anchorites of Talos were a loosely organized group of half-orc shamans and mystics dedicated to Talos, the evil-aligned God of Thunder, Storm and Destruction. They are neutral-evil through and through.

@@ -1,5 +1,9 @@
 # Session Diary
 
+## Session 6
+
+I am going to give them the option to go straight r
+
 ## Session 5
 
 dont be afraid to say they stumble upon corpses for dramatic effect

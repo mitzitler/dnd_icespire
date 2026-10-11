@@ -24,6 +24,33 @@ The fastest way to reach the mine from Phandalin is to head northeast, skirting 
 
 But they will NEED to rest soon after arriving.
 
+### Coming from Butterskull Ranch
+
+If they decide to go directly there from butterskull ranch, they will need to go to a meeting spot in between all three locations to wait for Don-Jon. He will arrive on horseback with [Sharlay Grift](../../npc_content/all_npcs.md#sharlay-grift-homebrew). *The players don't know this, but this is the last time they will see her alive.*
+
+Sharlay will drop him off along with his "night goggles", a present. The quest is to escort him to the mine, but he will say he wants to make sure it is ready to start sending for workers. He has three ravens (Po, Gar and Ed) that circle overhead, ready to send to Neverwinter or Cormyr and post job notices for willing mine workers. 
+
+As the goggles are a loan, Don-Jon will want to return them to the PME. 
+
+Don-Jon will want to make sure:
+* Each room is cleared
+* There is an adequate space for a safe and for a secret office, though he will be fine telling the party
+* The path to the secret entrance is made a secret
+
+#### Plot stuff..
+
+Of course, he doesn't know that the goggles are feeding information back to [Halia](../../npc_content/all_npcs.md#halia-thornton), and that she plans to overtake the mine once the threats are all cleaned out and she has a thourough mapping of the place.
+
+The players will be able to detect magic on the goggles. They can also detect that Sharlay is hiding something. If they roll a nat 20 perception any time they are within 10 ft of Don-Jon, they will hear the scribing in the goggles. 
+
+* If the goggles are returned without interference, the mine is 'couped' offscreen. 
+* If the goggles are returned with PROPER interference, Halia will confront them
+    * What's proper interference? The scribe bug could be futzed with by providing illusions of different scenes
+    * I would take most creative plans
+    * Halia's confrontation would involve trying to sabotage their reputation, and they will lose access to the Miner's exchange and anything else that they may help them with in the future.
+* The the goggles are not returned at all, someone will try to take them from one of the party members in the night.
+    * How many days do they get in grace? Maybe I roll a d4 after they get back to town and that's how many days they get to return them.
+
 ### On the way there, dead orcs
 
 When the party gets within five miles of the mine, read the following boxed text aloud:
