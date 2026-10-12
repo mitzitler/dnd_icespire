@@ -247,11 +247,15 @@ The players are ambushed, and are all attacked with surprise.
 
 > The grappled characters have been dragged to room M13
 
+![Orc Stat Block](../../npc_content/monster_stat_blocks/orc.png)
+
 #### Guard Wererats (possible)
 
 The two wererat guards don't want to fight, but will if necessary. If they are killed here, then there will be two less in the den fight.
 
 ![Giant Rat Stat Block](../../npc_content/monster_stat_blocks/giant_rat.png)
+
+![Veteran](../../npc_content/monster_stat_blocks/veteran.png)
 #### Wererat Den
 
 5 or 6 wererats and 4 or 5 giant rats

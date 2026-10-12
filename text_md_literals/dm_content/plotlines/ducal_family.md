@@ -18,3 +18,11 @@ One of our players, [Dopio](../players/dopio.md), is being framed for the assass
 ## Who is he NOT?
 
 He is NOT associated with the city of YARTAR, where [Linene Graywind](../../npc_content/all_npcs.md#linene-graywind) and the other Lionshields come from.
+
+## The Asassination Plot
+
+### What Really Happened
+
+### What Al Knows
+
+### What Dopio Knows
