@@ -2,7 +2,57 @@
 
 ## Session 6
 
-I am going to give them the option to go straight r
+**this time they started the shared quest log**
+
+I am going to give them the option to go straight to the next dungeon. first they are in the top floor of the ranchhouse and then find the mithril chain mail, a full set of playing cards, and the sack of earnings.
+
+eve finds the cellar door
+
+they free big al and have the last orc tied up. he tells leto he has no grip with him and only has gripe with them secret societies!
+
+the tied up orc tells them about their relationship with the cult.
+
+big al tells them some stuff about the harpers, including a secret code and their symbol. leto decides to stay at the ranch and help him rebuild.
+
+they long rest there!
+
+### setting out
+
+they set out from butterskull ranch, and at the end of the second day. they see sharlay and she looks rough, and throws eve the +1 silver dagger.
+
+don-jon is larger than life and ready to go. 
+
+#### the mine part 1 - together
+
+they enter the mines from the western side and notice shadowy figures in the grooves in the wall. don jon is not sneaky enough and announces himself. at some point they find suspicious maps and a list of nearby clerics (although all they know is that these are the names of people and associated deities). 
+
+as they search further, they walk into the ambush area. i do a fun thing where i have them close their eyes for suspence and then it is revealed that al and eve have been dragged away. the group is now split into A gasshole, arfer, dopio and don jon and B eve and al
+
+#### the mine part 2 - eve and al 
+
+most of their weapons have been taken from them but eve still has her gifted dagger. al pretends to be injured and the lure the guard Orc into their cell, and then eve ambush kills him. they leave the cell and find the second Orc, but she just wants to chat. she tells them about how the wererats do this on purpose: lure people in, turn them, and make them servants to work for the antidote. but there is no antidote, they find out. she tells them their equipment is in the other room, but then starts to get suspicious when she realizes she has lost track of the other orc. she goes hostile and eve gets her also.
+
+they get their equipment back and search around - at some point finding a stray wererat and having to fight it, learning about the physical damagae immunities. then they find a small dormitory and get tattered capes in there, to blend in with the others.
+
+#### the mine part 3 - main group
+
+dopio flirts with don jon! arfer makes gasshole invisible and they become a beetle. they find a storage room with the words "HELP ME IM NOT MYSELF". Gasshole rolls a low investigation roll and finds a rusty -1 silver dagger - able to damage the wererats but not as effective. 
+
+They also encounter a solo wererat also, so they can also learn somewhat the immunities. in the fight, they find another -1 silver dagger. gasshole's invisibility breaks. He tries to run away but they manage to get him before he goes into the room to warn the others
+
+then gasshole goes in by himself, and the guard asks if HES don jon and gasshole said yes. he said i know you are not alone and gasshole succeeded a deception check to lie that he was alone. then gasshole gets lead into the main room with the wererat boss zeleen varnasta. gasshole flirts with her
+
+don jon cant take it anymore, and he bursts in to the room and says HE is the real don jon. 
+
+#### the mine part 4 - the gang reunites
+
+al and eve hear the shouting on the other side of the mine and rush to find their friends. as the gang is gathered outside. gasshole is pretending to be on their side! before they burst in, gasshole tries to give zeleen (the boss) a kiss on the cheek and she bites him and infects him with lycanthropy!! they then all fight, dopio does a lot of damage with Shatter, and then on her turn Zeleen escapes by disengaging and sneaking through a wall tunnel.
+
+There are three wererats left. In the fight, with Zeleen escaped and only one rat in the fight remaining, arfer also gets bitten and infected with lycanthropy.
+
+#### wrapping up
+
+they will pick up in the middle of this fight - perhaps try to add in a picture here - and they need to kill zeleen and the carrion crawler to finish the dungeon
 
 ## Session 5
 
