@@ -1,5 +1,16 @@
 # Session Diary
 
+## Session 7 ...
+
+They will have to clear the dungeon. we will consider this to be day 0.
+
+gasshole timer : 3 + 1d4 + WIS or CON modifier
+
+arfer timer: 3 + 1d4 + WIS or CON modifier
+
+then they can do whatever they want - whether its stopping by gnomenguard or umbrage hill or whatever. if they ask sistar garaele for help, she will ask them to investigate people around town for her. **im going to make this a subquest, and maybe we need to plan for one or two combat encounters in town**
+
+
 ## Session 6
 
 **this time they started the shared quest log**
