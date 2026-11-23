@@ -1,6 +1,6 @@
 # Session Diary
 
-## Session 7 ...
+## Session 7
 
 They will have to clear the dungeon. we will consider this to be day 0.
 
@@ -10,6 +10,64 @@ arfer timer: 3 + 1d4 + WIS or CON modifier
 
 then they can do whatever they want - whether its stopping by gnomenguard or umbrage hill or whatever. if they ask sistar garaele for help, she will ask them to investigate people around town for her. **im going to make this a subquest, and maybe we need to plan for one or two combat encounters in town**
 
+### the session - day 0
+
+they finish the battle, go to the office room. Z is in the wind. they percieve that it has been ransacked, and they see the name of the clerics again, but dont get any checks. arfer gets advantage on a wisdom check ac 10 to understand whats going on, **gasshole has 4 days, arfer has 7 days**. they plan to get to adabra for a cure
+
+sharlay is found dead on the path, frozen and broken in half! there are two empty knife holders (one of them). they decide to take her back to town to drop off her body at the phandalin miners exchange. it is 830 PM now as they arrive in town. The PME is closed and they decide to ask at the Inn about this.
+
+marla can kinda tell theres something off about arfer and gass. dopio presents the top half of her dead body and marla faints. toblin "runs off to tell the sister". they spend one hour making a shrine for her. it is 930 and they set out at a fast past to adabra. they get to her at 1015, and she tells them that garaele can help them. they decide to make the journey back to town and get back at midnight, exhausted. 
+
+### first day in town - day 1
+
+they all go to sleep. arfer has 6/7 days, gasshole has 3/4 days. arfer only sleeps half the night, worried about the condition. they know they need to find garaele, dopio and eve as elves dont have to sleep as long so they go investigating around early in the morning. halia and toblin left a note on the vigil for sharlays body. and the elves find a quick note "down below". "do we think there could be tunnels" "there could be because we cleared gravel out of a hatch" (!!!!!!!!) they DO find hollowness behind Marla's house.
+
+they connect the hollowness to the map they found in coneyberry and decide that there is something underneath marla's house. "this is a lead for finding garaele for us"
+
+#### garaele & marla
+
+they find the hideout and find garaele, and she told them about the five investigations, and they start with marla at the inn.
+
+they are successful with the marla investigation!
+
+#### halia
+
+dopio sits down at the table with the trio. dopio and arfer and eve talk to the trio about sharlay and stuff, find them suspicious. gasshole and al are in the middle back room. arfer joins them and they fight the dwarves, and non lethally knock them out. arfer rolls a nat 20 and finds the bloodstone with the harper symbol, but are suspicious about the motives of the investigation. they knock out dazlin and norbus. eve thinks about maybe taking them with the gang. gasshole gives the goggles back, and arfer is suspicious.
+
+#### harbin
+
+al goes into the office area, gasshole tries to sneak around in the kitchen, where they are asked not to go. harbin tells them about the ice elixir and the way the mayor died, and arfer finds the pin amongst the stuff. investigation successful!
+
+they check and see that there is a hollow inside the original dagger too, which says "YOU HAVE TO COME HELP ME"
+
+
+### second day in town - day 2
+
+the group is starting to think someone is controlling the dragon!! i love that!!
+
+#### frederico
+
+they go into the backyard with him, and he paces back and forth and stares out past the field, walks back, stands in the doorway. *kronk voice* dopio flirts with BWF. gasshole talks with the mules, and they say, trapdoor! they say that sometimes they see mice come in and out. dopio asks to be shown more of the mules. they note that the hands are big. 
+
+the other four head inside to the house and inspect the trapdoor, and find a better way to open it. arfer becomes a weasel to slink through and unlatch the trapdoor. they defeat the stirges! and arfer searches the desk. they see the letter to yargath and also the pen, and the grab it.
+
+#### linene
+
+rolled a 17 for the nice weapon in stock. all armor is +1! they succeed via conversation
+
+
+#### garaele
+
+- they found linene somewhat suspicious, 
+- big wet fred they found to be "a good guy", attacked by some monsters, "freaked out by something", writing stuff to yargath, armor for boars? fence broke in some places?
+- harbin, silver pin, last mayor died by dragon, and that makes harbin sad. finds him to be trustworthy, makes a good bolognese. could use some more friends :(
+- halia's place was the most suspicious. two people visiting her - not who they said they word - sharlays close visitors. "the math doesnt make sense" on how they arrived so fast. yelena, the girlfriend, kept giving eve weird sideways glances. in the back, while they were talking to the visitors, they got into an altercation with the two dwarves from the excavation! one was catatonic and one was enraged. they found both a dagger and a bloodstone.
+- silver feather in her book, love her!!! business isnt doing well. 
+
+overall very suspicious about the mice.
+
+tells them to tell falcon when they see him, to go fly a kite! she cant stand that guy!
+we end at 5!
 
 ## Session 6
 
