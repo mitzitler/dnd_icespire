@@ -15,7 +15,7 @@ They will have few options after leaving the dungeon to cure it. They must go to
 
 - *Option 3: Marla*: if they do not go to the secret hideout, then they will not immediately be able to find Sister Garaele, so they can go through Marla who will give them the quest, but a worse version of it.
 
-> ""
+> "You need to talk to the Sister, she can help you, she's the only one I know that's talented enough to Remove Curse."
 
 Later, when they see the Sister for the first time after talking to Marla:
 
@@ -23,7 +23,7 @@ Later, when they see the Sister for the first time after talking to Marla:
 
 - *Option 4: Sister Garaele*: if she is found in the secret hideout, then they get the quest directly from her. She will not be at the shrine when they first arrive back in town.
 
-> ""
+> "You are so clever to come to me! I can remove curse - I will give you guys a discount - only 45 GP each, but you have to do a favor for me. I have a list of 4 names, and I need you to investigate each one. I'll give you the first "
 
 
 
@@ -65,9 +65,9 @@ What does the book say:
 
 #### Harbin
 
-#### Ability Checks
+##### Ability Checks
 
-#### Room description
+##### Room description
 
 
 > ***OBJECT*** A harper pin
@@ -80,6 +80,8 @@ What does the book say:
 - After telling the story, he shows them the full alchemy table, where the pin is. He says that he has been working on his formula for ice resistance elixirs, if thats of interest to them - but he will have to sell them for cost (im not running a charity for Petes sake!)
 
 #### Halia
+
+*the names are Robert and Yelena*
 
 The main room is as much meeting area as it storefront. There is a shop bar in the middle of the room, and a large table in the front left corner. Around the table stands Halia, in mourning black, and two robed, morose figures. There is a large doorway in the middle of the back wall that leads to the back rooms. The main room has various maps on the walls, maps on the tables, souvenirs of mining and logging in the area, mining equipment on the walls, on the bar, all around. 
 
